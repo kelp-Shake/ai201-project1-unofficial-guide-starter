@@ -144,7 +144,28 @@ def run_eval(queries=EVAL_QUERIES, k=5, collection=None):
             print(f"      {text[:300]}")
 
 
+def interactive(k=5):
+    """Type a question, see the top-k chunks + distances. Ctrl-C / blank to quit."""
+    collection = get_collection()
+    print(f"Loaded {collection.count()} chunks. Ask a question (blank line to quit).")
+    while True:
+        try:
+            q = input("\nquery> ").strip()
+        except (EOFError, KeyboardInterrupt):
+            print()
+            break
+        if not q:
+            break
+        run_eval([q], k=k, collection=collection)
+
+
 def main():
+    import sys
+    # `python embed_store.py query`  -> ask your own questions (uses existing store)
+    # `python embed_store.py`        -> (re)build the store, then run the eval queries
+    if len(sys.argv) > 1 and sys.argv[1] in ("query", "-q", "--query"):
+        interactive()
+        return
     collection = build_collection(reset=True)
     print("\nTesting retrieval against evaluation-plan queries (top-5 each):")
     run_eval(k=5, collection=collection)
