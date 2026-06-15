@@ -1,0 +1,121 @@
+
+==============================================================================
+QUERY: What resources can alumni use on campus?
+==============================================================================
+Loading embedding model: all-MiniLM-L6-v2 ...
+
+  #1  distance=0.438  [reddit | comment_32 | pos 37]
+      source: How_weird_would_it_be_as_an_alumni_to_just_hang_around_campu
+      Are they both at campus and outside of it? I skimmed the calendar of activities for the alumni association and seems that there’s an alright things to do over the course of the year. Younger me would have never thought about actually joining the association, especially for a cost 😅. Thanks for the r
+
+  #2  distance=0.462  [reddit | title+op | pos 0]
+      source: UMD_Alumni_Association__What's_In_It_For_Me__An_event_explai
+      UMD Alumni Association: What's In It For Me? An event explaining the benefits of being an alum May 16th Visit
+
+  #3  distance=0.488  [page | Support the University of Maryland by giving back. | pos 11]
+      source: coporate.md
+      Find Mentorship and Volunteer Opportunities  Find out more about mentorship and volunteer opportunities through the Alumni Association.  ---
+
+  #4  distance=0.489  [reddit | title+op | pos 0]
+      source: What_libraries_and_spaces_are_available_for_me,_an_alumni_wh
+      What libraries and spaces are available for me, an alumni who graduated 6 years ago? I still have an old library card. I am especially interested in quiet study spaces in libraries I can still access. Visit  Edit. I mean an ID card, not a library card
+
+  #5  distance=0.492  [reddit | title+op | pos 0]
+      source: Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md
+      Alumni who lurk this page- what do you work as now? Visit
+
+==============================================================================
+QUERY: Is there an alumni I can connect with for career coaching?
+==============================================================================
+
+  #1  distance=0.343  [page | Frequently Asked Questions | pos 24]
+      source: alumni-umd-edu-resources-terrapins-connect.md
+      Once they accept, they can send you a meeting invite for a phone call or video chat. You will receive emails to let you know when you've received a message.  What if I am alum looking for mentorship?  Alumni can absolutely join seeking mentorship. As an alum, you can connect with other alumni in you
+
+  #2  distance=0.363  [page | Find More Coaches | pos 54]
+      source: coaches.md
+      Find More Coaches. Check out all of our coaches on the new Terp Referral Exchange Business Directory.  Browse Directory Search the directory of businesses owned by UMD alumni
+
+  #3  distance=0.412  [reddit | comment_31 | pos 36]
+      source: How_weird_would_it_be_as_an_alumni_to_just_hang_around_campu
+      The UMD Alumni Association has volunteer opportunities, including mentoring a current Terp and helping regional clubs.
+
+  #4  distance=0.425  [reddit | comment_13 | pos 18]
+      source: How_weird_would_it_be_as_an_alumni_to_just_hang_around_campu
+      Oh I forgot about that group, were they based in Stamp if I remember correctly? Honestly volunteer work as been another thing I’ve wanted to try, I just never got a solid idea of where to look. If they’re cool with an alumni tho I’d definitely be willing to see what’s up! Thanks for the recommendati
+
+  #5  distance=0.446  [page | Coaches Corner | pos 0]
+      source: coaches.md
+      Coaches Corner. Your Alumni Association is fearlessly committed to your success. We are here to provide you with resources to enhance your personal and professional goals. Coaches Corner is  a program that aims to connect Terps with access to top-level alum coaches interested in helping you start, a
+
+==============================================================================
+QUERY: Is there a networking website for alumni?
+==============================================================================
+
+  #1  distance=0.410  [page | COMPANY INFO | pos 1]
+      source: umd_alumni_linkedin.txt
+      COMPANY INFO. University of Maryland Alumni Association Higher Education | College Park, MD | 7,678 followers Tagline: Your Lifelong Terrapin Connection #StayFearlessUMD  Website: https://alumni.umd.edu/ Industry: Higher Education Company size: 11-50 employees (45 listed on LinkedIn) Headquarters: 7
+
+  #2  distance=0.426  [reddit | comment_13 | pos 18]
+      source: How_weird_would_it_be_as_an_alumni_to_just_hang_around_campu
+      Oh I forgot about that group, were they based in Stamp if I remember correctly? Honestly volunteer work as been another thing I’ve wanted to try, I just never got a solid idea of where to look. If they’re cool with an alumni tho I’d definitely be willing to see what’s up! Thanks for the recommendati
+
+  #3  distance=0.427  [reddit | comment_32 | pos 37]
+      source: How_weird_would_it_be_as_an_alumni_to_just_hang_around_campu
+      Are they both at campus and outside of it? I skimmed the calendar of activities for the alumni association and seems that there’s an alright things to do over the course of the year. Younger me would have never thought about actually joining the association, especially for a cost 😅. Thanks for the r
+
+  #4  distance=0.434  [page | Corporate Networks | pos 13]
+      source: coporate.md
+      In today’s fast-paced work environment, it’s easy to focus on the to-do list and overlook the value of community, but strong connections are at the heart of a thriving workplace. Our alumni corporate networks build bonds through mentorship, fellowship and meaningful professional relationships.    Ex
+
+  #5  distance=0.439  [page | Frequently Asked Questions | pos 24]
+      source: alumni-umd-edu-resources-terrapins-connect.md
+      Once they accept, they can send you a meeting invite for a phone call or video chat. You will receive emails to let you know when you've received a message.  What if I am alum looking for mentorship?  Alumni can absolutely join seeking mentorship. As an alum, you can connect with other alumni in you
+
+==============================================================================
+QUERY: What membership length periods are available?
+==============================================================================
+
+  #1  distance=0.627  [reddit | comment_5 | pos 10]
+      source: How_weird_would_it_be_as_an_alumni_to_just_hang_around_campu
+      No you can purchase a membership as well.
+
+  #2  distance=0.660  [page | Membership | pos 12]
+      source: alumni-umd-edu-membership-benefits.md
+      Membership. Renew  Benefits  Current Member Information
+
+  #3  distance=0.672  [page | How to Access Your Member Benefits | pos 7]
+      source: alumni-umd-edu-membership-benefits.md
+      How to Access Your Member Benefits. Access your perks in one location. The member portal is where you can find your membership ID number, digital membership card, and renew or upgrade your membership. When you log in and navigate to the “Member Benefits” tab, you will find instructions to access spe
+
+  #4  distance=0.684  [reddit | comment_25 | pos 44]
+      source: Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_actio
+      Check https://drive.google.com/drive/quota that will show your current usage.
+
+  #5  distance=0.686  [page | How to Access Your Member Benefits | pos 9]
+      source: alumni-umd-edu-membership-benefits.md
+      You will know your account is synced when you see Member Benefits listed in the navigation bar at the top of the page and your current membership will display at the top right corner.  \\ \\ The Hall CP\\ Show your Alumni Association member card (or digital card) to receive a 10% discount.
+
+==============================================================================
+QUERY: Can I use the library late at night after graduation?
+==============================================================================
+
+  #1  distance=0.510  [reddit | comment_22 | pos 27]
+      source: How_weird_would_it_be_as_an_alumni_to_just_hang_around_campu
+      Yeah, I think it would be nice to just grab a cup of coffee and find a nice place to just sit and read a book and just enjoy the beauty of the campus itself without all the stress of homework and deadlines looming over me.
+
+  #2  distance=0.523  [reddit | title+op | pos 0]
+      source: What_libraries_and_spaces_are_available_for_me,_an_alumni_wh
+      What libraries and spaces are available for me, an alumni who graduated 6 years ago? I still have an old library card. I am especially interested in quiet study spaces in libraries I can still access. Visit  Edit. I mean an ID card, not a library card
+
+  #3  distance=0.555  [reddit | comment_1 | pos 2]
+      source: What_libraries_and_spaces_are_available_for_me,_an_alumni_wh
+      As far as access is concerned you can use them any time they're publicly available (i.e. no late night McKeldin). You also don't have borrowing privileges unless you register as a community borrower.
+
+  #4  distance=0.583  [reddit | comment_4 | pos 9]
+      source: How_weird_would_it_be_as_an_alumni_to_just_hang_around_campu
+      Don't you need a student ID to use facilities like Eppley?
+
+  #5  distance=0.624  [reddit | comment_6 | pos 9]
+      source: I_hate_UMD._Stop_sending_me_alumni_mail. (1).md
+      Dude facts, I can’t believe on GRADUATION DAY they put in those white folders to join the alumni association like I didn’t just spend bread at your school, FFFFFFUCK NO am I giving you more money 😂
