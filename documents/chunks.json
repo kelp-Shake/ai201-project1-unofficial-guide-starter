@@ -1,0 +1,2241 @@
+[
+  {
+    "text": "Alumni, your terpmail may be deleted if you don't take action Visit",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "title+op",
+    "author": "cherry_chocolate_"
+  },
+  {
+    "text": "A last call email went out today stating your terpmail account, including Gmail, would be deleted in 10 days if you are using more than 15gb of storage. While some IT help pages say they will delete Google Drive first, it may have changed because the email says they will delete your whole account.\nI hope this post reaches someone who doesn't check their inbox all the time. It would be horrible to lose your files and even worse to lose your email address.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "title+op",
+    "author": "cherry_chocolate_"
+  },
+  {
+    "text": "Ya'll remember when they promised lifetime unlimited google drive with terpmail? What happened to that?",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_0",
+    "author": "unknown"
+  },
+  {
+    "text": "Google is the one who ended it. It seems like Google used it as a sales tactic against universities. After many schools were using it, they pulled out the rug.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_1",
+    "author": "unknown"
+  },
+  {
+    "text": "I honestly think it wasn't so much of a rug pull as a \"oh wow we didn't think people would use so much storage.\"\n\nLike to me \"rug pull\" implies that was always the plan. And maybe it was! I'm not 100 percent ruling that out.\n\nBut I think they made the offer while grossly underestimating how much storage universities would use.\n\nLike when I was in school years and years ago (not UMD), after graduation I only had my email account for like 30 days before being deactivated. Storage isn't free.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_2_0",
+    "author": "unknown"
+  },
+  {
+    "text": "So if you're some exec at Google who figures, after graduation, universities tend to delete accounts, or you assume most alumni go off and get their own email. Then yeah it seems like it would be pretty easy to offer unlimited storage.\n\nBut when unlimited storage *changes the way universities handle accounts entirely* - and they all let students keep them forever, because it's unlimited so why not? I could see people not expecting that to happen.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_2_1",
+    "author": "unknown"
+  },
+  {
+    "text": "Granted I could have told you that's *exactly* what would happen. Because that's always what happens when you offer unlimited anything. I remember when AOL stopped charging per hour and did a flat monthly rate and all the phone lines got jammed. Exact same thing, again and again.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_2_2",
+    "author": "unknown"
+  },
+  {
+    "text": "who figures, after graduation, universities tend to delete accounts, or you assume most alumni go off and get their own email\n\n Well the whole sales pitch is that this was the norm, but that by signing up with Google you would be able to let alumni keep their emails for free forever. So they definitely expected people to use the email.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_3_0",
+    "author": "unknown"
+  },
+  {
+    "text": "Realistically, Google should have handled this better. They sold on a promise they couldn't keep in 2014, so they should have made the transition easier. They made the same mistake with the Pixel phones in 2016 yet they still honor it.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_3_1",
+    "author": "unknown"
+  },
+  {
+    "text": "Cold storage tape is very cheap and they already have an operation for that. They could have made an \"archive\" functionality for accounts created before the policy change. Or at the very least not restrict school admins from accessing the storage recovery tools.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_3_2",
+    "author": "unknown"
+  },
+  {
+    "text": "Yeah, I think keeping an email account forever, and keeping unlimited Google Drive forever, are really pretty different things. And the unfortunate situation is, these are all tied up into the same, overall \"thing\", using the same single bucket of storage. It takes forever to rack up a large email file so offering email for life is *doable* (though there's still some big-picture questions around why universities (not just UMD) offer this anymore).",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_4_0",
+    "author": "unknown"
+  },
+  {
+    "text": "If Google Workspace could implement per-service quotas? This would all be so much better. Set a Drive quota, set a Photos quota, done. Maybe we'd have to set a Gmail quota just to be safe, or set the overall account quota in addition to the per-service quotas. That would make our email for life policy a lot more doable, I think.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_4_1",
+    "author": "unknown"
+  },
+  {
+    "text": "though there's still some big-picture questions around why universities (not just UMD) offer this anymore",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_5_0",
+    "author": "unknown"
+  },
+  {
+    "text": "I use my umd email for work related stuff. And even if I didn't I still would want it to exist for forever. Maybe I decide to apply to grad school 5 years after undergrad and want to look at my past connections, contact a professor for a reference using an email that is obviously from UMD, etc. If Google can give me gmail for free, then a university should be able to provide me with an email address for life out of the tuition I paid.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_5_1",
+    "author": "unknown"
+  },
+  {
+    "text": "Yeah. The other philosophy that some universities have is they provide resources to further your education. Things like computer labs, specialized equipment, libraries, student health center, recreational facilities - all part of a holistic approach to education.\n\nAnd when you graduate, you lose access to most of that stuff. Some schools treat your Google/Microsoft/(whoever) account like one of those resources.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_6_0",
+    "author": "unknown"
+  },
+  {
+    "text": "I can see arguments for both. After graduation it basically becomes a personal account and for most other resources that wouldn't be appropriate. But historically email has been very cheap.\n\nA few minor points that I feel are important:",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_6_1",
+    "author": "unknown"
+  },
+  {
+    "text": "Nothing is truly free. Gmail may not charge you but, they're performing a combination of data collecting, getting your eyeballs in front of ads, and hoping you like the service enough you'll pay for the higher tiers. There's always a cost somewhere and it's just an issue of who's paying.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_6_2",
+    "author": "unknown"
+  },
+  {
+    "text": "Providing an email address for life can be incredibly cheap but how you implement that is pretty important. Running an email forwarding service would technically qualify as providing you an email address, right? That has zero storage costs. But... That's not what most people mean when they say \"email\" - they really mean \"Google account.\"",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_6_3",
+    "author": "unknown"
+  },
+  {
+    "text": "And the most important thing: we're not really discussing email, we're discussing Google workspace accounts. If this was just email I don't think we'd be in this situation at all, most of the terpmail storage is alumni Google Drive and Google Photos by a huge margin. It's roughly 75% Drive, 20% Photos, 5% Gmail.\n\nThe alumni are largely using Terpmail for data storage and not for communication.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_6_4",
+    "author": "unknown"
+  },
+  {
+    "text": "On Google’s side, the benefit they give by offering the email for life is significant. I know I did most of my college work on Google docs, not word, so now they have a bigger foothold on the corporate office world. If the school used Microsoft 365 I might still be a word user.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_7_0",
+    "author": "unknown"
+  },
+  {
+    "text": "And I do think Google bears some responsibility to make this process smoother even if you don’t consider that enough benefit for them. Promising alumni email for life and then taking it away could be very damaging if someone loses access to important emails.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_7_1",
+    "author": "unknown"
+  },
+  {
+    "text": "I am altering the deal. Pray I don't alter it any further.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_8",
+    "author": "unknown"
+  },
+  {
+    "text": "Well there's some missing history here.\n\nThe policy is really \"email for life\" and probably dates back to the 90s.\n\nSo you had \"email for life\", then the University transitioned to Google, and at the time - Google promised universities unlimited storage. And since email was powered by Google and Google offered drive with unlimited storage - we no longer view it as \"email for life,\" we view it as \"Google for life.\" There's an important distinction there.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_9_0",
+    "author": "unknown"
+  },
+  {
+    "text": "Then every university racked up huge amounts of storage and Google decided to implement caps on university accounts. So here we are.\n\nIf you go through the history of any KB article about Terpmail it never actually mentions unlimited storage. It's specifically that you have the account.\n\nSo you had \"Terpmail for life\", which was powered by Google, and at the time Google offered unlimited storage, so a lot of people (rightly) sort-of combined these into \"unlimited storage for life.\"",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_9_1",
+    "author": "unknown"
+  },
+  {
+    "text": "Just wanna get the overall backstory out there. It's basically a case of, email for life meets service offering unlimited storage and it all kind of merging into a single thing.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_9_2",
+    "author": "unknown"
+  },
+  {
+    "text": "That’s not the history here. There wasn’t central IT until the 00’s before that there were different little groups that did different things. Terpmail, and with it email for life wasn’t until the 10’s (maybe even the 2nd half of the decade)",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_10",
+    "author": "unknown"
+  },
+  {
+    "text": "So yes, there wasn't really a centralized email system for students until pretty late. But UMD had some kind of \"email for life\" implementation as far back as 2005 (I overshot when saying it probably goes back to the 90s): it was accomplished by using umd.edu as a forwarding service - https://web.archive.org/web/20060901095824/http://www.helpdesk.umd.edu/topics/email/alumni/4697/",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_11_0",
+    "author": "unknown"
+  },
+  {
+    "text": "It isn't the same system but the overall idea of having an email address for life predates Terpmail, which is the important part.\n\nEmail for life was already a thing, then Terpmail came along using Google. Since the email was powered by Google, Google had unlimited storage, it got corrupted to \"unlimited storage for life\" when it's really always been \"email for life\"",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_11_1",
+    "author": "unknown"
+  },
+  {
+    "text": "umdit **&#x21C5; 20**\n \n This true u/umdit ?",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_12",
+    "author": "unknown"
+  },
+  {
+    "text": "I'm not the official umdit account but I'm one of the people that will be doing the actual deletions.\n\nWe will delete the account and make a new one so ultimately you still get to hold on to the email address, though you'll likely need to reach out to IT to do a password reset.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_13_0",
+    "author": "unknown"
+  },
+  {
+    "text": "The reason for this is Google counts Photos in your storage usage but Photos isn't actually a workspace application. With Gmail and Drive we can do all kinds of things, but we have literally no way to manage anybody's Google Photos account. I'm pretty disappointed that Google decided to count it as storage without giving us ways to manage it.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_13_1",
+    "author": "unknown"
+  },
+  {
+    "text": "The original plan was to try to do things more piecemeal but when Google came back with no way to handle Photos - that really threw a wrench in things. And yeah, that's the only way to handle photos, is to delete the whole account.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_13_2",
+    "author": "unknown"
+  },
+  {
+    "text": "Also if your main storage issue is Google photos, use partner sharing to copy photos to a Gmail account. https://kb.uconn.edu/space/IKB/26399244303/Use+Partner+Sharing+to+Migrate+Your+Google+Photos\n\nIT cannot do this or set this up for you, you have to do it. Again, Photos isn't a Workspace app.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_14",
+    "author": "unknown"
+  },
+  {
+    "text": "Are you still doing piecemeal deletions of accounts that aren't over in photos storage? I know it may not be your call, but if possible you should consider trying the google drive deletions first to see if that gets an account under the limit, and then trying one more time to contact the accounts that are over on photos.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_15",
+    "author": "unknown"
+  },
+  {
+    "text": "It's not my call combined with a few other factors.\n\nSay it was my call - there's not really a way to just say \"wipe this one person's drive.\" You have to use a tool that deletes all their files, but it requires iterating over every single file and deleting it. For some accounts the number of files is so high it just won't ever finish.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_16_0",
+    "author": "unknown"
+  },
+  {
+    "text": "Plus Photos storage accounts for a really good amount of the total storage used. Drive is still #1 but even if we *could* just easily delete all the drive data we'd still be over the amount of storage Google has allocated for us.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_16_1",
+    "author": "unknown"
+  },
+  {
+    "text": "Dang Google is doing people dirty with that. There's an easy way to delete a single service in the UI.\n\n it requires iterating over every single file and deleting it\n\n I bet they want you to rack up API calls trying to do this so you have to pay to exit. I'm sure we're not the first university to need this.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_17",
+    "author": "unknown"
+  },
+  {
+    "text": "Yeah - deleting a service is something you can do, but I can't do it for you, right. I can disable it, but that's not quite the same as deleting.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_18",
+    "author": "unknown"
+  },
+  {
+    "text": "I know ppl from another University System of Maryland school who still use the xfinity live streamed tv like 5 years post graduation lol! 😂 I’d keep that account",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_19",
+    "author": "unknown"
+  },
+  {
+    "text": "I graduated in May and never received this email (checked spam and everything); am I good for the ~1 year it looked like I’d get according to the initial announcement of the crackdown? Might get rid of my photos just to be safe",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_20",
+    "author": "unknown"
+  },
+  {
+    "text": "Go to your Google drive and look in the left hand corner. If it’s under 15 go you’ll be fine",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_21",
+    "author": "unknown"
+  },
+  {
+    "text": "Thank you for posting this. I took mine down from 30 GB to ~ 11 GB. The kicker? All of that was from one class because the lectures were massive.\n\nI’d have been crushed to lose all my files.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_22",
+    "author": "unknown"
+  },
+  {
+    "text": "Yay! Glad I helped someone. Hopefully most people see the email in time.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_23",
+    "author": "unknown"
+  },
+  {
+    "text": "According to Google, if photos are saved as compressed files, they shouldn’t count against storage. Is this true in this case?",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_24",
+    "author": "unknown"
+  },
+  {
+    "text": "Check https://drive.google.com/drive/quota that will show your current usage.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_25",
+    "author": "unknown"
+  },
+  {
+    "text": "I'd also suggest that there's spam going around that says the same thing. I received the email and I have a faculty/staff account.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_26",
+    "author": "unknown"
+  },
+  {
+    "text": "Faculty accounts are limited to 256gb, so if you are over it's still possible you could be affected. It's not spam, the address who sent it is legitimate.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_27",
+    "author": "unknown"
+  },
+  {
+    "text": "Question, do you also have a Terpmail? A good number of faculty and staff also have Terpmail accounts.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_28",
+    "author": "unknown"
+  },
+  {
+    "text": "Nope, mail was different for students when I attended.",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_29",
+    "author": "unknown"
+  },
+  {
+    "text": "Absolutely nothing has been deleted yet, email itsupport@umd.edu if you're having a problem getting into your account",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_30",
+    "author": "unknown"
+  },
+  {
+    "text": "I'm sure both members of r/terps really appreciate that",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_31",
+    "author": "unknown"
+  },
+  {
+    "text": "Here's a sneak peek of r/terps using the top posts of the year!\n\n#1: Maryland are the 2023 B10 baseball champions! | 7 comments#2: Terps beat number 10 Illinois! | 19 comments#3: Derik Queen, a 5-star recruit from Baltimore, commits to Maryland men’s basketball | 4 comments\n\nI'm a bot, beep boop | Downvote to remove | Contact | Info | Opt-out | GitHub",
+    "source": "Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md",
+    "doc_type": "reddit",
+    "section": "comment_32",
+    "author": "unknown"
+  },
+  {
+    "text": "Alumni who lurk this page- what do you work as now? Visit",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "title+op",
+    "author": "Unknown"
+  },
+  {
+    "text": "Engineer at one of UMD’s construction site\n\n-says someone who hated the construction on campus",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_0",
+    "author": "unknown"
+  },
+  {
+    "text": "If it’s blue origin that’s a W, if it’s an swe role at Amazon thats still impressive",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_1",
+    "author": "unknown"
+  },
+  {
+    "text": "Work at NASA. (as was my childhood dream)",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_2",
+    "author": "unknown"
+  },
+  {
+    "text": "Im currently working towards this goal :)\n\nWhich center do you work at and what do you do?",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_3",
+    "author": "unknown"
+  },
+  {
+    "text": "Not the replier, but I see your flair and you should definitely try to work at Goddard since a lot of the science happens there. That’s where Hubble operates out of for example, and many other geo/weather satellite projects. If you get an internship it’s almost guaranteed employment from there.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_4",
+    "author": "unknown"
+  },
+  {
+    "text": "Yea, I'm considering Goddard or JPL after grad school. Got 4 more years (if all goes to plan) and then I'll start applying for employment there, and other NASA centers. I've applied for internships in the past while I was at UMD, but never got accepted to any. I appreciate the help tho!",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_5",
+    "author": "unknown"
+  },
+  {
+    "text": "Keep applying and if you happen to know anyone personally who works there, reach out! That’s the best way.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_6",
+    "author": "unknown"
+  },
+  {
+    "text": "I work at GSFC, have always been a contractor. I work in mission operations on one of the largest programs at GSFC, a joint mission between NOAA and NASA.\n\nThere are a lot of contractors in the area that have work at Goddard. Don't limit yourself, think of getting what you can as a foot in the door.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_7_0",
+    "author": "unknown"
+  },
+  {
+    "text": "JPL is so awesome, if I could do it over, I might have tried getting a job there. I visited JPL a few years ago and the atmosphere there is just great. That said, GSFC is consistently treated as one of the best places to work in government.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_7_1",
+    "author": "unknown"
+  },
+  {
+    "text": "Failed out and work at FORD MOTOR COMPANY now make about 70 to 80k",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_8",
+    "author": "unknown"
+  },
+  {
+    "text": "Glad that’s working out for you, I left the dealership life while working for GM and coming here was the best decision I made for myself.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_9",
+    "author": "unknown"
+  },
+  {
+    "text": "No no I mean I build them in the factory",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_10",
+    "author": "unknown"
+  },
+  {
+    "text": "Employee at UMD. Not in my subject area 🙃",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_11",
+    "author": "unknown"
+  },
+  {
+    "text": "I used to make maps. I still make maps but I used to too.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_12",
+    "author": "unknown"
+  },
+  {
+    "text": "What did you study in college if I may ask",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_13",
+    "author": "unknown"
+  },
+  {
+    "text": "That’s cool, I am currently doing a path in info science and will end up focusing my career either in data science or data analysis",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_14",
+    "author": "unknown"
+  },
+  {
+    "text": "Some quick advice for becoming an DS or DA.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_15_0",
+    "author": "unknown"
+  },
+  {
+    "text": "- Learn either GCP or AWS, and master it.\n - Master SQL on either platform (BigQuery or MS SQL). It’s incredibly important as a DS/DA to know SQL at an expert level and there’s no way around it.\n - Analytics tools like Looker, Amplitude, Segment, Fivetran are all really good to know and look great on a resume if you can back them with skills.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_15_1",
+    "author": "unknown"
+  },
+  {
+    "text": "- If you want to be a DS specifically, knowing machine learning theory and in particular knowing both frequentist + Bayesian methods is powerful. MLOps is also important but comes second to knowing best practices for modeling and statistical tests (A/B and Diff in Diff are huge).",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_15_2",
+    "author": "unknown"
+  },
+  {
+    "text": "They unfortunately don’t teach you most of the best analytics tools in college and leave you to learn it on the job. Getting in early and learning these ahead of time puts you so far ahead. I honestly think UMD should put more SQL into their courses overall.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_15_3",
+    "author": "unknown"
+  },
+  {
+    "text": "We learn SQL in info science, python, Java and some front end. I took a class in AWS too.Am good with T-SQL and SQL as a whole on most platforms (RDMS) as it’s the first language I learned. Over I think if SQL is what’s needed for data analysis thats good. I will look into machine learning. Thanks.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_16",
+    "author": "unknown"
+  },
+  {
+    "text": "I would recommend looking up the CMSC422 notes / slides and working off of that for machine learning. I found the course to be quite good as a foundational knowledge base. After that it’s mostly picking up some side projects or delving into more specific areas of machine learning like deep learning, computer vision, probabilistic programming, etc.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_17",
+    "author": "unknown"
+  },
+  {
+    "text": "I’m a graduate student at a school in DC now! Still involved with my old club at UMD since I am in the area :)",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_18",
+    "author": "unknown"
+  },
+  {
+    "text": "Flight Attendant at one of the Big 3 US Airlines",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_19",
+    "author": "unknown"
+  },
+  {
+    "text": "Underground gladiator.\n\nWhat we do in life echoes in eternity. Maximus Decimus Merdius.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_20",
+    "author": "unknown"
+  },
+  {
+    "text": "I work in vaccines commercial strategy for one of the big pharmas in Montgomery County. graduated (undergrad) in 2000 with double degree, Cell/Molecular Bio & Genetics, and Philosophy",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_21",
+    "author": "unknown"
+  },
+  {
+    "text": "Escrow accounting in real estate at a NYC lawfirm",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_22",
+    "author": "unknown"
+  },
+  {
+    "text": "Construction Management. Have had several projects on and around campus :)",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_23",
+    "author": "unknown"
+  },
+  {
+    "text": "They will be building until infinity srry",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_24",
+    "author": "unknown"
+  },
+  {
+    "text": "Unemployed 🥲 half kidding though, I tried to find a job exclusively in Germany and it was harder than I thought from abroad. I had my phd at Maryland.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_25",
+    "author": "unknown"
+  },
+  {
+    "text": "Financial analyst for a large government contractor making $110k",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_26",
+    "author": "unknown"
+  },
+  {
+    "text": "Did you do any internships prior to your job?",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_27",
+    "author": "unknown"
+  },
+  {
+    "text": "Had an internship the summer after my junior year. Got a full time offer from that company for 56k. Now 5 years later and at my second company making 110k.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_28",
+    "author": "unknown"
+  },
+  {
+    "text": "That’s great! Do you have any advice for someone who is trying to be a financial analyst?",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_29",
+    "author": "unknown"
+  },
+  {
+    "text": "Work on your excel skills. You’re never going to work out a time value question at a job but you will need to problem solve and build models in excel.\n\nAs far as actually getting a job - get an internship as an analyst at a large company your junior year summer. You’ll likely get a full time offer and can use that to jumpstart your career.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_30_0",
+    "author": "unknown"
+  },
+  {
+    "text": "Interview advice - your grades and degree will speak for themselves in most first finance jobs out of college. Most employers are looking for someone they’ll get along with. So don’t be nervous in the interview and just act like yourself and you should be fine.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_30_1",
+    "author": "unknown"
+  },
+  {
+    "text": "Oversight for your purple line construction",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_31",
+    "author": "unknown"
+  },
+  {
+    "text": "you would not believe how many utilities need to be relocated... there cant be a utility within 2 feet of the railroad(including vertical clearance). This allows for maintenance of the utilities",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_32",
+    "author": "unknown"
+  },
+  {
+    "text": "i’m applying to med school rn, working at a pediatrician!",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_33",
+    "author": "unknown"
+  },
+  {
+    "text": "What’s the best thing about Iowa City compared to College Park, in your opinion? What’s the best thing about College Park compared to Iowa City?",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_34",
+    "author": "unknown"
+  },
+  {
+    "text": "Grad student on the other side of the country!",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_35",
+    "author": "unknown"
+  },
+  {
+    "text": "RN; undergrad in History and Public Health",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_36",
+    "author": "unknown"
+  },
+  {
+    "text": "SDE at NASA GSFC. My team’s all older than me by 20+ years and im here being a hoe trying to get mentoring from all of them.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_37",
+    "author": "unknown"
+  },
+  {
+    "text": "I work at NASA (GSFC). Many UMD grads there because it’s super local.\n\nI even work with someone from my class!",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_38",
+    "author": "unknown"
+  },
+  {
+    "text": "Climate scientist.\n\nYou know those UN models that come out and say the world is gonna end in X amount of years.\n\nThat's me! I make those models*\n\n*edit strictly speaking I work on the water parts (Flood, Drought, WASH, Agricultural water, and Hydro)",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_39",
+    "author": "unknown"
+  },
+  {
+    "text": "i'll be the odd one out and say $15 an hour at Target",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_40",
+    "author": "unknown"
+  },
+  {
+    "text": "Working that street corner with your mom. :)",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_41",
+    "author": "unknown"
+  },
+  {
+    "text": "I lead Talent Acquisition for a Fortune 500 company.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_42",
+    "author": "unknown"
+  },
+  {
+    "text": "Engineer for a special effects and pyrotechnics firm. It's a neat blend of my engineering degree and entertainment background",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_43",
+    "author": "unknown"
+  },
+  {
+    "text": "Biology teacher.\n\nGot my degree in ecology and evolutionary biology. No interest in working in a lab or the field. Got an almost free masters in teaching degree from UMUC (now UMGC) and haven’t looked back much. Work is hard but it’s nice being adored by hundreds of high schoolers",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_44",
+    "author": "unknown"
+  },
+  {
+    "text": "Developer Relations Engineer for a rather large video game company, despite UMD having no game courses when I was there :(",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_45",
+    "author": "unknown"
+  },
+  {
+    "text": "Work as an events coordinator in dc for the non-stem girls",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_46",
+    "author": "unknown"
+  },
+  {
+    "text": "Data Science Manager (L6) for a tech company whose product you probably used recently.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_47",
+    "author": "unknown"
+  },
+  {
+    "text": "What was you major? How much degree at Umd helped getting where you are?",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_48",
+    "author": "unknown"
+  },
+  {
+    "text": "General Surgeon currently in my last year of Residency",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_49",
+    "author": "unknown"
+  },
+  {
+    "text": "SWE for a fintech based in Reston, VA\n\nWork history since high school: Volunteer EMT/FF II Victoria’s Secret merch stocker (freshman) Landscaper turf grass (sophomore) SWE internship in SF/Bay Area at a FAANG (junior) Craft beer brewer QA (senior)\n\nStarted my own start up while working at the brewery for two years before I jumped back into tech as you can see",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_50",
+    "author": "unknown"
+  },
+  {
+    "text": "Chem ‘21 here, work as a scientist at a pharma company in the moco area.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_51",
+    "author": "unknown"
+  },
+  {
+    "text": "Pricing and Logistics Analyst for a retail fuels marketer",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_52",
+    "author": "unknown"
+  },
+  {
+    "text": "Lol. I graduated in exercise science and got all requirements for DPT school but now I own a construction company.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_53",
+    "author": "unknown"
+  },
+  {
+    "text": "Human capital consultant for a gov contractor",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_54",
+    "author": "unknown"
+  },
+  {
+    "text": "Intelligence/Security for a big ole company in NYC… the GVPT degree can pay off if you know how to swing it",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_55",
+    "author": "unknown"
+  },
+  {
+    "text": "I’m a grad student at a UC in Southern California.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_56",
+    "author": "unknown"
+  },
+  {
+    "text": "Product manager in the UK health service",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_57",
+    "author": "unknown"
+  },
+  {
+    "text": "Marketing degree from Smith school. Been working in Data operations for Nielsen for 15 years now.\n\nTip from your future self - make connections in whatever school/program you are part of. Many people get a job not because of what their major was, but who they know. I’m a prime example of that.",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_58",
+    "author": "unknown"
+  },
+  {
+    "text": "I'm freelancing as a Virtual Assistant/Transcriptionist while I work on writing a book. Sounds like a pipe dream but I'm very sick and probably won't get better so this is basically all I can manage haha. I do enjoy it and it pays the bills :)",
+    "source": "Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md",
+    "doc_type": "reddit",
+    "section": "comment_59",
+    "author": "unknown"
+  },
+  {
+    "text": "How weird would it be as an alumni to just hang around campus to do random stuff? Visit",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "title+op",
+    "author": "Bonehammer"
+  },
+  {
+    "text": "So I graduated from UMD almost 6 years ago to be transparent. But I stayed in the area just to be near family, and cause living in PG county is still honestly a better value (to me at least, idk I'm stubborn) than moving to NoVA where my work is. Recently my days have become a lot more free, and now I'm kinda just figuring out things to do outside my working hours. And considering campus is a short drive away, I was wondering if I could just go around and maybe see what's to do there",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "title+op",
+    "author": "Bonehammer"
+  },
+  {
+    "text": ". Currently my first idea is just to head over to Eppley, get an alumni membership, and spend some time there doing my usual fitness routine of strength training & swimming. And maybe keep on expanding into other stuff from there.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "title+op",
+    "author": "Bonehammer"
+  },
+  {
+    "text": "Real question is, would it be weird me doing this? I'm in my late 20s so being around folks below the drinking age feels a bit odd, and I'd hate coming off as a creeper. But considering my alternatives for using my free time (when I'm not rotting away inside my house) are either to go to DC, or go to Arlington/Fairfax, I wanted to judge if it was worth it just venturing back into the community I used to be a part of, considering well, that it's right nearby.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "title+op",
+    "author": "Bonehammer"
+  },
+  {
+    "text": "For more details on this, I’m honestly thinking about just being there for most days of the week, except Fridays. Any feedback would be appreciated, thanks!",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "title+op",
+    "author": "Bonehammer"
+  },
+  {
+    "text": "I see 30+ year olds working out in eppley all the time",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_0",
+    "author": "unknown"
+  },
+  {
+    "text": "Oh really? Ok that’s good to hear, honestly when I was at UMD I was a commuter so I never really felt the desire to use stuff like Eppley. But that’s good to hear I won’t be the only old guy there lol, appreciate it!",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_1",
+    "author": "unknown"
+  },
+  {
+    "text": "Yeah I see people of all ages working out in the gym. The outdoor pool also just opened and I’ve seen families there.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_2",
+    "author": "unknown"
+  },
+  {
+    "text": "41 year old dad here, I’m there 5 days a week at 11am",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_3",
+    "author": "unknown"
+  },
+  {
+    "text": "Don't you need a student ID to use facilities like Eppley?",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_4",
+    "author": "unknown"
+  },
+  {
+    "text": "No you can purchase a membership as well.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_5",
+    "author": "unknown"
+  },
+  {
+    "text": "Don't think people will care. There are plenty of older people around, especially with master's/phds and lecturers/profs around nobody will look twice",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_6",
+    "author": "unknown"
+  },
+  {
+    "text": "Cool cool. That’s makes sense, I definitely don’t come off as a post-grad kinda person so that’s why I was a bit curious if being on campus just as an alumni would be weird or not. Not planning on attending classes again, just trying to find things to do really is my intention.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_7",
+    "author": "unknown"
+  },
+  {
+    "text": "My friend, graduate students also exist and we’re all 25+ basically",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_8",
+    "author": "unknown"
+  },
+  {
+    "text": "My fault, I always told myself that I’d never want to do any post-grad stuff so I always keep forgetting about you folks 😅. Hope your programs are going well and that everything you want works out for you!",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_9",
+    "author": "unknown"
+  },
+  {
+    "text": "Just do it. Once it feels weird stop. Who cares ? 🤷",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_10",
+    "author": "unknown"
+  },
+  {
+    "text": "True true you’re not wrong. Just me overthinking honestly😅",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_11",
+    "author": "unknown"
+  },
+  {
+    "text": "You can volunteer at the Campus Pantry — they do so many good things for hungry staff and students! And working out at Eppley is another great plan. You would be taking care of yourself and others. 💙 There is nothing weird about your wanting to to stay connected to the beautiful University of Maryland.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_12",
+    "author": "unknown"
+  },
+  {
+    "text": "Oh I forgot about that group, were they based in Stamp if I remember correctly? Honestly volunteer work as been another thing I’ve wanted to try, I just never got a solid idea of where to look. If they’re cool with an alumni tho I’d definitely be willing to see what’s up! Thanks for the recommendation!",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_13",
+    "author": "unknown"
+  },
+  {
+    "text": "also late 20s alumni- no it's not weird. If you live in the community then UMD is basically your community center. You are able to do classes and use the facilities even if you weren't an alumni and you just happened to live in the neighborhood.\n\nThe only thing that would make it weird is if you specifically hit up UMD to prowl for college students.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_14",
+    "author": "unknown"
+  },
+  {
+    "text": "Yeah exactly, I felt like the campus is basically kinda a place I can use again to just hang around and try to pick up things to do.\n\nAnd ewwww yeah that last thing on my mind right now is wanting to hit up women so young. I’m single admittedly but right now women are not a high priority for me, especially ones with a huge age gap like that🤢",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_15",
+    "author": "unknown"
+  },
+  {
+    "text": "You have to work to get people to notice you on campus. You'll be fine.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_16",
+    "author": "unknown"
+  },
+  {
+    "text": "Appreciate it, yeah I don’t intend on being a billboard, I just wanna do the stuff that interests me and head on home. Thanks!",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_17",
+    "author": "unknown"
+  },
+  {
+    "text": "Even the faculty uses Eppley so ull be fine.\n\nJust don’t flirt or insert yourself into groups of college students at the bars.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_18",
+    "author": "unknown"
+  },
+  {
+    "text": "Appreciate it, honestly I’m glad that this is turning out to be a lot more reasonable for me than I thought! And yeah I’ve mentioned it in the thread but I’m not going to the bars, I feel like that’s just not my place anymore to be there lol.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_19",
+    "author": "unknown"
+  },
+  {
+    "text": "If I didn't live so far away, I would go check out campus as an alum more.\n\nI was a commuter and had to work a lot, so I feel like I never really got the chance to enjoy being on campus as much as I would have liked.\n\nIn fact, maybe I'll go do that today.\n\nEdit: Nevermind. The weather's kinda *butts* right now. 😅",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_20",
+    "author": "unknown"
+  },
+  {
+    "text": "Yeah it seems that, as long as you are doing things within reasonable & respectful boundaries, and not intentionally being a weirdo, you should go for it, why not!",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_21",
+    "author": "unknown"
+  },
+  {
+    "text": "Yeah, I think it would be nice to just grab a cup of coffee and find a nice place to just sit and read a book and just enjoy the beauty of the campus itself without all the stress of homework and deadlines looming over me.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_22",
+    "author": "unknown"
+  },
+  {
+    "text": "Look into jiu jitsu. You’ll gladly find your free time issues solved.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_23",
+    "author": "unknown"
+  },
+  {
+    "text": "Yo is that offered at Eppley? I tried to skim through the classes offered there but it was hit or miss for me, I’ve always wanted to learn a martial art. Having that to learn at campus would be great!",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_24",
+    "author": "unknown"
+  },
+  {
+    "text": "No idea to be honest. I'd do a google search and check on the BJJ channel. Most D1 colleges do have a program somewhere. That said, as a guy who was in a similar spot years back, jiu jitsu was the best decision I could've made. Wouldn't trade that decision for most anything in my life beyond my faith and family.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_25",
+    "author": "unknown"
+  },
+  {
+    "text": "I went to the Fe in my 30s to watch a basketball game and really did not feel like I belonged there. Felt kinda awkward. Never went back (of course the Fe is also RIP). Don’t mind just visiting though or going to a game.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_26",
+    "author": "unknown"
+  },
+  {
+    "text": "Yeah that’s something that was on my mind when I thought about this. Like I have friends who are in their early 20s, and they act sooo much different than people my age. I get it’s different generations tho, but still I feel like a sore thumb sometimes lol.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_27",
+    "author": "unknown"
+  },
+  {
+    "text": "When I was at UMD as a student and went out to bars or to parties and there were older guys there (late 20s early 30s) we always joked why these old weird dudes were hanging with college kids. Then when I went to the Fe I realized I was now one of those old weird dudes.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_28",
+    "author": "unknown"
+  },
+  {
+    "text": "Lolol that’s the realization I think I’ve started to have now, I just wanted to not be apart of those dudes who make it weird for everyone. At least for you I assume you were just wanting to watch the game and head home, that feels perfectly fine to me.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_29",
+    "author": "unknown"
+  },
+  {
+    "text": "It was a group of us. We thought it would be fun to relive our college days by catching the game at the local bar. We all felt weird.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_30",
+    "author": "unknown"
+  },
+  {
+    "text": "The UMD Alumni Association has volunteer opportunities, including mentoring a current Terp and helping regional clubs.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_31",
+    "author": "unknown"
+  },
+  {
+    "text": "Are they both at campus and outside of it? I skimmed the calendar of activities for the alumni association and seems that there’s an alright things to do over the course of the year. Younger me would have never thought about actually joining the association, especially for a cost 😅. Thanks for the recommendation!",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_32",
+    "author": "unknown"
+  },
+  {
+    "text": "Grad students, faculty, and staff all exist and are older than undergrads",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_33",
+    "author": "unknown"
+  },
+  {
+    "text": "You'll fit in very well with the rest of us.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_34",
+    "author": "unknown"
+  },
+  {
+    "text": "I was a undergrad from 25-29, I had no problem.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_35",
+    "author": "unknown"
+  },
+  {
+    "text": "I may get downvoted for this, but beyond Eppley and attending sporting events and maybe performances at Clarice, hanging around campus is strange to me. What other things were you thinking of trying to get involved in? Are you trying to meet people and make connections? I’m an alum and remember being really creeped out by the older guys who would be at cornerstone all the time.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_36",
+    "author": "unknown"
+  },
+  {
+    "text": "I don’t think you should get downvoted for asking a fair question. In terms of activities, I’m kinda open to a lot. But I do have a blacklist in mind, and one of the things I’d want to avoid, is being around the south campus bars. I did my time there in that area back in my younger years, and it’s thanks to that experience that I’m kinda sick of bars now lol. Sure making connections and such would be cool, but honestly doing it a bar just sounds gross to me now",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_37_0",
+    "author": "unknown"
+  },
+  {
+    "text": ". Maybe when I was younger my answer would be different, now I just want to live a more peaceful life tbh.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_37_1",
+    "author": "unknown"
+  },
+  {
+    "text": "There's like 60,000 on campus. I don't think anyone will notice you.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_38",
+    "author": "unknown"
+  },
+  {
+    "text": "Eppley is open to the general public, I have seen straight up elderly ppl there and families with children",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_39",
+    "author": "unknown"
+  },
+  {
+    "text": "Oh yeah for sure, it’s just been so long since I’ve been there, I wasn’t sure how people like me would be hanging around there. Makes sense, thanks!",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_40",
+    "author": "unknown"
+  },
+  {
+    "text": "My fault if it’s coming off as weird, not my intention. Just figured I try and see what’s up on campus that I can pass time with outside of work & friends.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_41",
+    "author": "unknown"
+  },
+  {
+    "text": "Ah ok, yeah I can see why you think that. Honestly I haven’t been to campus in years, so I didn’t think it was normal for someone like me to be there. That’s why I figure I felt better to ask folks who are currently attending if it’s alright.",
+    "source": "How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md",
+    "doc_type": "reddit",
+    "section": "comment_42",
+    "author": "unknown"
+  },
+  {
+    "text": "I hate UMD. Stop sending me alumni mail. Visit\n\nUMD is only for virgin engineers. This isn't high school musical. We're not all in this together anymore.",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "title+op",
+    "author": "SaladPersonal977"
+  },
+  {
+    "text": "You’re telling me you don’t want to give more money to the school you spent tens or hundreds of thousands of dollars on? Wow what a bad alumni, we can’t afford to run the school without making you go bankrupt.",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_0",
+    "author": "unknown"
+  },
+  {
+    "text": "When I was a student I used to work at the on-campus call center calling alumni for donations. It was like a circle of hell. Turns out people don’t usually like being asked to donate money to an institution they still have loans towards. Sometimes we would even call parents of current freshmen; Christ, that was the worst.",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_1_0",
+    "author": "unknown"
+  },
+  {
+    "text": "Pro tip: if they ever call, ask to be “removed from the list.” Specify PERMANENTLY or they will just call again in a couple years and start the mailers back up (honestly they may still do anyway).",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_1_1",
+    "author": "unknown"
+  },
+  {
+    "text": "i use to work a tell-a-terp too😭😭 worst job ever but at least i can say I have some good customer service skills now 😅",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_2",
+    "author": "unknown"
+  },
+  {
+    "text": "Realistically, it was a pretty cushy gig for a student who just needs some pocket money from a few short shifts a week, but god was it soul-crushing. It gave me a lot of empathy for cold callers, though. People are mad at me for calling? Dude, I also wish you hadn’t picked up! Why berate me when you can just hang up any time and I can’t? I’m just trying to do my homework or a sudoku while I pray you’re smart enough to not answer numbers that aren’t in your contacts.",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_3_0",
+    "author": "unknown"
+  },
+  {
+    "text": "Working at Safeway definitely sucked more, though.",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_3_1",
+    "author": "unknown"
+  },
+  {
+    "text": "Ya I agree, the worst part for me was having to ask for a donation 4 times before we’re allowed to hang up😭 that made it even more frustrating when the person on the other line was getting rude and you had to keep asking then for money lmaoo",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_4",
+    "author": "unknown"
+  },
+  {
+    "text": "I had to ask three times when I worked there, did they increase it? Brutal.",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_5",
+    "author": "unknown"
+  },
+  {
+    "text": "Dude facts, I can’t believe on GRADUATION DAY they put in those white folders to join the alumni association like I didn’t just spend bread at your school, FFFFFFUCK NO am I giving you more money 😂",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_6",
+    "author": "unknown"
+  },
+  {
+    "text": "Saying engineers are virgins when you have posts complaining about your “useless English degree” as a career retail worker… Quite the choice lmao…",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_7",
+    "author": "unknown"
+  },
+  {
+    "text": "This is the kind of post that begs you to read the poster's history",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_8",
+    "author": "unknown"
+  },
+  {
+    "text": "The multiple attempts to post about moving to Canada, all being rejected by the sub automod for different reasons is what got me.",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_9",
+    "author": "unknown"
+  },
+  {
+    "text": "All they've gotta do is not file change of address when they move to Canada and UM won't get to them.",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_10",
+    "author": "unknown"
+  },
+  {
+    "text": "Sorry to tell you, but this won't stop. They've been sending me alumni mail and requests for donations for DECADES, even though I have never donated.",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_11",
+    "author": "unknown"
+  },
+  {
+    "text": "At least they respect when you ask to not call you.",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_12",
+    "author": "unknown"
+  },
+  {
+    "text": "They sent my diploma to the wrong address but they magically get it right when it’s time to ask for more money…",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_13",
+    "author": "unknown"
+  },
+  {
+    "text": "Why are you on this reddit if you don't like us?",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_14",
+    "author": "unknown"
+  },
+  {
+    "text": "An engineer fucked the girl this dude liked",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_15",
+    "author": "unknown"
+  },
+  {
+    "text": "I loved my time at Maryland! I still love Maryland! Super proud of my alma mater, the professors, and the students.\n\nBut I’ll never give money, because of the way they spend it. No university needs thousands of overpaid administrators while it exploits grad students and lecturers like indentured servants. There are currently TWO THOUSAND more administrators than academic staff. I’ve seen how hard these people work for their paycheck and benefits, and … it’s not that hard.",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_16_0",
+    "author": "unknown"
+  },
+  {
+    "text": "This obviously isn’t just a UMCP problem, and I understand that the solutions are challenging. But after I worked in the development (fundraising) office during grad school, there’s zero chance I’m giving them my pennies when I’ve seen where the spending priorities are.",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_16_1",
+    "author": "unknown"
+  },
+  {
+    "text": "I hate the time I spent at umd. It would've been better served in prison honestly.",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_17",
+    "author": "unknown"
+  },
+  {
+    "text": "In the kindest way possible, that feels like a you problem. If you can’t be happy at a big state school with a huge variety of social groups and activities to choose from, it would be difficult to be happy anywhere. Right?",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_18",
+    "author": "unknown"
+  },
+  {
+    "text": "yeah man the engineers are the losers...",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_19",
+    "author": "unknown"
+  },
+  {
+    "text": "No virgins on campus if DOTS fucks you every chance they get.",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_20",
+    "author": "unknown"
+  },
+  {
+    "text": "There's a DOTS backstory here somewhere I think ...",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_21",
+    "author": "unknown"
+  },
+  {
+    "text": "Look at it from their perspective: people who were financially illiterate enough to go a hundred thousand dollars into debt in exchange for a relatively worthless piece of paper* are probably good targets to ask for more money.\n\n*unless you majored in engineering or science.",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_22",
+    "author": "unknown"
+  },
+  {
+    "text": "Maybe if you re-enrolled and got an engineering degree you wouldn’t be so bitter in 4 years. (I mean this both as a diss and genuine advice, our 23/24 engineering commencement speaker was a great dude in his 30’s who had previously had a career as a teacher and now he’s doing great at a top aerospace company)",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_23",
+    "author": "unknown"
+  },
+  {
+    "text": "just unsubscribe? or get a junk email address?",
+    "source": "I_hate_UMD._Stop_sending_me_alumni_mail. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_24",
+    "author": "unknown"
+  },
+  {
+    "text": "UMD Alumni Association: What's In It For Me? An event explaining the benefits of being an alum May 16th Visit",
+    "source": "UMD_Alumni_Association__What's_In_It_For_Me__An_event_explaining_the_benefits_of_being_an_alum_May_16th (1).md",
+    "doc_type": "reddit",
+    "section": "title+op",
+    "author": "crabcakes110"
+  },
+  {
+    "text": "I really like the alumni events, particularly those planned by my College. The Association wide events are getting much better, with career development oriented content. I’m glad they’ve moved away from focusing on primarily “entrepreneurship” events.\n\nI wish, though, they’d stop pushing the credit cards.",
+    "source": "UMD_Alumni_Association__What's_In_It_For_Me__An_event_explaining_the_benefits_of_being_an_alum_May_16th (1).md",
+    "doc_type": "reddit",
+    "section": "comment_0",
+    "author": "unknown"
+  },
+  {
+    "text": "I know people had their gripes about UMD as students, and I definitely did during my time there. But after graduating, I’ve found that the alumni association has put on some awesome events like holiday parties at the Smithsonian and congressional country club! Definitely recommend at least checking the events out for anyone who may have graduated",
+    "source": "UMD_Alumni_Association__What's_In_It_For_Me__An_event_explaining_the_benefits_of_being_an_alum_May_16th (1).md",
+    "doc_type": "reddit",
+    "section": "comment_1",
+    "author": "unknown"
+  },
+  {
+    "text": "frankly, there isn’t any.\n\nprofessional connections? LinkedIn/Indeed\n\nsearch for classmates? social media\n\nwhat’s going on near you? social media\n\nhow to make sure you receive the latest news? do you really care about the latest news out of CP once you graduate?\n\nnot to mention they spam you wish mail and phone calls asking for money.",
+    "source": "UMD_Alumni_Association__What's_In_It_For_Me__An_event_explaining_the_benefits_of_being_an_alum_May_16th (1).md",
+    "doc_type": "reddit",
+    "section": "comment_2",
+    "author": "unknown"
+  },
+  {
+    "text": "If you don’t care about the latest college park news or staying looped into the community, why are you in a UMD subreddit 10+ years after graduation",
+    "source": "UMD_Alumni_Association__What's_In_It_For_Me__An_event_explaining_the_benefits_of_being_an_alum_May_16th (1).md",
+    "doc_type": "reddit",
+    "section": "comment_3",
+    "author": "unknown"
+  },
+  {
+    "text": "i never unsubscribed. nowadays i just chime in on career questions",
+    "source": "UMD_Alumni_Association__What's_In_It_For_Me__An_event_explaining_the_benefits_of_being_an_alum_May_16th (1).md",
+    "doc_type": "reddit",
+    "section": "comment_4",
+    "author": "unknown"
+  },
+  {
+    "text": "What libraries and spaces are available for me, an alumni who graduated 6 years ago? I still have an old library card. I am especially interested in quiet study spaces in libraries I can still access. Visit\n\nEdit. I mean an ID card, not a library card",
+    "source": "What_libraries_and_spaces_are_available_for_me,_an_alumni_who_graduated_6_years_ago__I_still_have_an_old_library_card._I_am_especially_interested_in_quiet_study_spaces_in_libraries_I_can_still_access. (1).md",
+    "doc_type": "reddit",
+    "section": "title+op",
+    "author": "Bloodmeister"
+  },
+  {
+    "text": "And you are considered a visitor - https://www.lib.umd.edu/information/visitors",
+    "source": "What_libraries_and_spaces_are_available_for_me,_an_alumni_who_graduated_6_years_ago__I_still_have_an_old_library_card._I_am_especially_interested_in_quiet_study_spaces_in_libraries_I_can_still_access. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_0",
+    "author": "unknown"
+  },
+  {
+    "text": "As far as access is concerned you can use them any time they're publicly available (i.e. no late night McKeldin). You also don't have borrowing privileges unless you register as a community borrower.",
+    "source": "What_libraries_and_spaces_are_available_for_me,_an_alumni_who_graduated_6_years_ago__I_still_have_an_old_library_card._I_am_especially_interested_in_quiet_study_spaces_in_libraries_I_can_still_access. (1).md",
+    "doc_type": "reddit",
+    "section": "comment_1",
+    "author": "unknown"
+  },
+  {
+    "text": "Skip to main content\n\nUniversity of Maryland\n\nHome Membership\n\nBenefits",
+    "source": "alumni-umd-edu-membership-benefits.md",
+    "doc_type": "page",
+    "section": "intro"
+  },
+  {
+    "text": "Member Benefits. **To be a Terp is forever.** As a University of Maryland Alumni Association member, you have demonstrated your committment to your alma mater. Your membership dues supports critical initiatives, scholarships, and programs that directly benefit students and alums. In recognition of this, your Alumni Association offers members exclusive access and savings to thank you for their support.",
+    "source": "alumni-umd-edu-membership-benefits.md",
+    "doc_type": "page",
+    "section": "Member Benefits"
+  },
+  {
+    "text": "Let's get you rewarded.. | Benefits | Life | Three Year | Annual |\n| --- | --- | --- | --- |\n| Name engraved on the Frann G. & Eric S. Francis Lifetime Member Wall | | | |\n| Exclusive Lifetime Member Pullover | | | |\n| Personalized mailing address labels (sent annually) | | | |\n| Up to $1,000 off Samuel Riggs IV Alumni Center venue rentals | | | |\n| Discounted tickets to The Clarice Performing Arts Center | | | |\n| Discounted tickets to select Maryland Athletics events | | | |",
+    "source": "alumni-umd-edu-membership-benefits.md",
+    "doc_type": "page",
+    "section": "Let's get you rewarded."
+  },
+  {
+    "text": "| Discounted tickets to select Maryland Athletics events | | | |\n| Special rates at the University of Maryland Golf Course | | | |\n| Access top gyms & wellness products with Active&Fit Direct | | | |\n| University Libraries \\| $25 Discount on the Community Borrower Program | | | |\n| Eligibility to join Eppley Recreation Center & Pool | | | |\n| Shop UMD apparel and accessories using members-only promo codes | | | |",
+    "source": "alumni-umd-edu-membership-benefits.md",
+    "doc_type": "page",
+    "section": "Let's get you rewarded."
+  },
+  {
+    "text": "| Shop UMD apparel and accessories using members-only promo codes | | | |\n| Free or 50% off admission to Alumni Association networking and social events | | | |\n| Terp magazine delivered to your home | | | |\n| Early-bird invitations to alum-only career and networking events | | | |\n| Save on admission to DMV-area museums including the National Aquarium | | | |\n| Snag discount tickets to see the Capitals, Mystics and Wizards play at home | | | |",
+    "source": "alumni-umd-edu-membership-benefits.md",
+    "doc_type": "page",
+    "section": "Let's get you rewarded."
+  },
+  {
+    "text": "| Buy one, get one pint at Denizen's Brewing Co. (Riverdale Park) | | | |\n| Terp Deals for nationwide savings on travel, theme parks, shopping and more | | | |\n| Stay at The Hotel at UMD and spend the day in luxury at the Spa for less | | | |",
+    "source": "alumni-umd-edu-membership-benefits.md",
+    "doc_type": "page",
+    "section": "Let's get you rewarded."
+  },
+  {
+    "text": "Not a member yet?. Join TodayThis link goes the membership page\n\n\\\\\n\\\\\nSpecial Discount for UMD Alumni Association Members",
+    "source": "alumni-umd-edu-membership-benefits.md",
+    "doc_type": "page",
+    "section": "Not a member yet?"
+  },
+  {
+    "text": "How to Access Your Member Benefits. Access your perks in one location. The member portal is where you can find your membership ID number, digital membership card, and renew or upgrade your membership. When you log in and navigate to the “Member Benefits” tab, you will find instructions to access specific benefits at various locations including using a special promo code or showing your membership card (physical or digital version).\n\nTo create your member profile:",
+    "source": "alumni-umd-edu-membership-benefits.md",
+    "doc_type": "page",
+    "section": "How to Access Your Member Benefits"
+  },
+  {
+    "text": "To create your member profile:\n\n1. Visit the AlumniQ portal and select Register Now.\n2. Fill out the requested information and select Sign Up.\n3. You will receive a verification email to the address you provided. Use that email to instantly set up your account password.\n\nAfter you submit, your new account will sync with our membership records within two business days.",
+    "source": "alumni-umd-edu-membership-benefits.md",
+    "doc_type": "page",
+    "section": "How to Access Your Member Benefits"
+  },
+  {
+    "text": "You will know your account is synced when you see Member Benefits listed in the navigation bar at the top of the page and your current membership will display at the top right corner.\n\n\\\\\n\\\\\nThe Hall CP\\\\\nShow your Alumni Association member card (or digital card) to receive a 10% discount.",
+    "source": "alumni-umd-edu-membership-benefits.md",
+    "doc_type": "page",
+    "section": "How to Access Your Member Benefits"
+  },
+  {
+    "text": "Terp Deals. Check out the Alumni Association's member discount marketplace.\n\nNo matter where you call home, use your member benefits to take advantage of nationwide savings for shopping, travel and entertainment. Save on top brands like Disney, Royal Caribbean, Farmer's Dog, Dell and many more.\n\nStay Fearless. **Start saving.**",
+    "source": "alumni-umd-edu-membership-benefits.md",
+    "doc_type": "page",
+    "section": "Terp Deals"
+  },
+  {
+    "text": "Stay Fearless. **Start saving.**\n\n_To access Terp Deals, you must create an account that is separate from your member portal. The link to register can be found in your “Member Benefits” tab in the member portal._\n\n\\\\\n\\\\\nMake Your Move™ Toward a Healthier You\\\\\n$0 Enrollment Fee With Promo Code: MOVEMORE",
+    "source": "alumni-umd-edu-membership-benefits.md",
+    "doc_type": "page",
+    "section": "Terp Deals"
+  },
+  {
+    "text": "Membership. Renew\n\nBenefits\n\nCurrent Member Information",
+    "source": "alumni-umd-edu-membership-benefits.md",
+    "doc_type": "page",
+    "section": "Membership"
+  },
+  {
+    "text": "Skip to main content\n\nUniversity of Maryland\n\nHome Career Resources\n\nTerrapins Connect",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "intro"
+  },
+  {
+    "text": "Terrapins Connect. Terrapins Connect is the University's virtual platform with the goal of connecting Terps from across the world with one another for mentoring, networking and professional opportunities.",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Terrapins Connect"
+  },
+  {
+    "text": "Whether you are looking to give or receive advice, Terrapins Connect provides a way to get involved. By joining the platform, you gain access to connect with thousands of fellow Terps, lively affinity and professional groups, formal and informal mentoring programs, access to career development resources and programs, and so much more. What are you waiting for? Get started today!",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Terrapins Connect"
+  },
+  {
+    "text": "Get Started. Setting up your account is quick and easy! Once you do so, you’ll be able to expand your Terp network, grow professionally, explore new career opportunities, and so much more.\n\n1. Go to the Terrapins Connect homepage.\n2. Click the \"Join Your Community\" button.\n3. Select a signup method (ex. LinkedIn, Email, SSO)\n4. Choose your User Type (ex. \"Student, Alumni, Faculty/Staff)\n5. Fill out your background info (if you use LinkedIn, your information will auto-populate!)",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Get Started"
+  },
+  {
+    "text": "You may need to wait for an admin to approve your account. If that's the case, you’ll receive an email once your account has been approved.\n\nOnce you have an account, watch our YouTube playlist, TC Tips with Ethan, to get a better understanding of the platform's features.\n\nStart NetworkingTerrapins Connect Website Link",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Get Started"
+  },
+  {
+    "text": "Hear from Terrapins Connect Users. Hear directly from Terps how they utilized Terrapins Connect to advance their careers and give back.\n\n[](https://alumni.umd.edu/news/when-terrapins-connect-how-alum-connections-helped-this-terp-find-job-during-global-pandemic)",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Hear from Terrapins Connect Users"
+  },
+  {
+    "text": "When Terrapins Connect: How Alum Connections Helped This Terp Find a Job During a Global Pandemic. The cap and gown. The stage walk. Moving the tassel. And, of course, receiving that diploma. All quintessential markers of achievement for graduates at universities across the country.\n\nLearn More\n\n[](https://alumni.umd.edu/news/when-terrapins-connect-umba-mentorship-program)",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "When Terrapins Connect: How Alum Connections Helped This Terp Find a Job During a Global Pandemic"
+  },
+  {
+    "text": "When Terrapins Connect: UMBA Mentorship Program. When Taylor Dotson ’21 came to the University of Maryland in 2019 to get her master’s in industrial organizational psychology, she was ready to take on the academic challenge to make the final leap into her career.\n\nLearn More\n\n[](https://alumni.umd.edu/news/when-terrapins-connect)",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "When Terrapins Connect: UMBA Mentorship Program"
+  },
+  {
+    "text": "When Terrapins Connect: Meeting Terps Across the Nation. When lifetime member Eric Glazer ’11 joined Terrapins Connect back in March of 2020, he planned on offering his expertise and mentorship to current students.\n\nLearn More\n\n**Check out more Terrapins Connect success stories here.**\n\n**Get started! Find an alum below to connect with immediately based on major or help topic.**\n\nMajors\n\nSelect Majors\n\nHelp Topics\n\nSelect Help Topics\n\nRobert Duru",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "When Terrapins Connect: Meeting Terps Across the Nation"
+  },
+  {
+    "text": "Majors\n\nSelect Majors\n\nHelp Topics\n\nSelect Help Topics\n\nRobert Duru\n\nBusiness Banking Relationship Manager at M&T Bank\n\nAlum\n\nColumbia, MD\n\nM&T Bank\n\nUniversity of Maryland, 2008\n\nConnect with Robert\n\n1 - 1 of 10728\n\n1 2 3 4 5",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "When Terrapins Connect: Meeting Terps Across the Nation"
+  },
+  {
+    "text": "My Profile is Created...Now What?. Waiting to hear from a student or fellow alumni and not sure what else you can do on Terrapins Connect? Not to worry- there are many things you can do on the platform to stay connected and engaged. Still lost on how to create a profile? Watch Ethan's TC Tips on profiles.",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "My Profile is Created...Now What?"
+  },
+  {
+    "text": "Explore the Community. Under the Community tab, scroll through profiles or use the search and filter bar on the top of the screen to narrow your search. You can filter by location, major, industry, and more. When you've found someone to connect with, click the \"Message\" button to send a message or request a meeting. Learn more about networking with this video.",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Explore the Community"
+  },
+  {
+    "text": "Build Off Your Skills. Terrapins Connect gives Terps access to exclusive development modules that will give even the most seasoned professionals more resources for their toolboxes. Explore these tabs to find tips on interviews, sample letters for various occasions, and personal development resources. Learn more with the Pathways TC Tip with Ethan.",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Build Off Your Skills"
+  },
+  {
+    "text": "Join a Group. Groups allow you to connect with others who share your interests. They're typically communities focused on particular colleges or interest areas, such as \"Clark School of Engineering\" or \"Terps in Education\" You can join a group to access select resources. Learn more about Groups in this video.\n\n**Need assistance starting your own group?** Sure! Email Phil Lupov at plupov@umd.edu to learn more about starting a group.",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Join a Group"
+  },
+  {
+    "text": "Check Out Career Paths. Want to know what steps you need to take for a certain career? How much money you might make? How others got there before you? Explore Terrapin Connect’s new Career Paths feature which guides you through various career paths and connects you to Terps who have been there. Ethan walks you through the new feature in his latest TC Tips with Ethan video.",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Check Out Career Paths"
+  },
+  {
+    "text": "Explore the Alumni Job Board. The Terrapins Connect job board pulls jobs for alumni from the University Career Center, fellow alumni, and WayUp. Click through jobs to find Terps who have worked there and apply through Terrapins Connect. Learn how to best navigate these features with our Job Board video.",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Explore the Alumni Job Board"
+  },
+  {
+    "text": "Manage Your Settings. Control how your account is set up, who can see your profile, when you’re available, and more. To access your settings, click the dropdown menu on your profile picture in the right hand corner of the screen. From there, click “My Preferences”. Then on the left hand side, toggle through each of the following options:",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Manage Your Settings"
+  },
+  {
+    "text": "- **Notifications:** Control when and how you’re getting information from Terrapins Connect. Do you want an email when someone messages you on the platform? Or a text? Or both?\n- **Privacy:** Manage how your profile can be seen by others.\n- **Availability:** Decide your meeting availability with others in the community. You may choose if you are available and how many people contact you in one month.\n- **Account:** Change your email address, password, or if needed, delete your account here.",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Manage Your Settings"
+  },
+  {
+    "text": "- **Manage your Calendar:** Here, you have the option to privately sync your calendar to show availability.\n- **Matching Quiz:** Update your matching quiz to get recommended users for connections.",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Manage Your Settings"
+  },
+  {
+    "text": "Preferences can be confusing. Check out Ethan's video to walk",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Manage Your Settings"
+  },
+  {
+    "text": "Frequently Asked Questions. How do I sign up?\n\nSigning up is easy. Go to www.terrapinsconnect.umd.edu and click on \"Join Our Community.\" Mentors and mentees can choose to sign in through LinkedIn, Facebook or email.\n\nHow long do I have to wait for account approval?\n\nOur team does our best to approve users as quickly as possible. Please allow 24 business hours. If you are concerned, you can email alumni@umd.edu.\n\nHow do I change my email?",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Frequently Asked Questions"
+  },
+  {
+    "text": "How do I change my email?\n\n- Click on your profile image in the upper right and then select \"My Preferences\" from the drop-down.\n- Select \"Account\" from the menu on the left.\n- Update your email address and password under \"Email ID and Password.\" Remember to save your changes!\n- You will need to confirm your new email by clicking the link we will send to your new address; once you have done so, we will start sending notifications to your new email.\n\nHow do I reset my password?",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Frequently Asked Questions"
+  },
+  {
+    "text": "How do I reset my password?\n\nLearn how to reset your password whether or not you're logged in.\n\n- I am logged into the platform and want to reset my password for security reasons\n- I am logged out and can't get back in because I don't know my password!\n\nI have a duplicate account, what do I do?\n\nDid you receive a message that your info was connected to an existing account? Sounds like you might already have an account! Select the statement below that sounds most relevant.",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Frequently Asked Questions"
+  },
+  {
+    "text": "- I am trying to create a new account.\n- I am trying to update my already-created account.\n\nHow do I get connected with a mentor?\n\nThe program will recommend connections based on your profile information. You can also choose to browse the entire TerrapinsConnect community by industry, major, location and more. Once you decide to reach out to a mentor, send a request to become officially paired.",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Frequently Asked Questions"
+  },
+  {
+    "text": "Once they accept, they can send you a meeting invite for a phone call or video chat. You will receive emails to let you know when you've received a message.\n\nWhat if I am alum looking for mentorship?\n\nAlumni can absolutely join seeking mentorship. As an alum, you can connect with other alumni in your city or industry of interest. If you are interested in mentoring students and gaining career advice, you can do both!\n\nI am on Terrapins Connect but no one has contacted me. Why?",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Frequently Asked Questions"
+  },
+  {
+    "text": "I am on Terrapins Connect but no one has contacted me. Why?\n\nMake sure you have taken the matching quiz to set your preferences, fully and accurately filled out your profile and set your availability. This will make it easier for mentees to find you! Also, please remember it is a large platform and sometimes it may take a while for mentees to find you.",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Frequently Asked Questions"
+  },
+  {
+    "text": "Additionally, check your spam folder in case of any lost messages. If you find messages are consistently appearing in spam, click the Help button in the bottom left of the Terrapins Connect platform.\n\nCan I have an anonymous profile?",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Frequently Asked Questions"
+  },
+  {
+    "text": "Can I have an anonymous profile?\n\nTerrapins Connect does NOT have an anonymous profile option. We felt it was important for people to \"see\" the face of their mentor, especially since the initial contact between mentor and mentee is via email. If you need to remain anonymous but want to participate in this program, please contact meganjm@umd.edu.\n\nIs my personal information secure?",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Frequently Asked Questions"
+  },
+  {
+    "text": "Is my personal information secure?\n\nTerrapins Connect is powered by PeopleGrove, which uses your information solely \"for the purpose of providing the Service, identifying and communicating with you, responding to your requests/inquiries, and improving the Service.\" To learn more, view PeopleGrove's Privacy Policy.\n\nWhat's the best way to use this resource?",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Frequently Asked Questions"
+  },
+  {
+    "text": "What's the best way to use this resource?\n\nEach individual will use this resource differently. Some will have specific professional development questions, some will want to speak with people employed in specific industries or at specific organizations, some may need to talk through making their resume more concise. It will depend on you and how you feel you can best utilize Terrapins Connect.\n\nI do not want to be a mentor/mentee anymore. How do I delete my profile?",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Frequently Asked Questions"
+  },
+  {
+    "text": "I do not want to be a mentor/mentee anymore. How do I delete my profile?\n\nPlease email alumni@umd.edu and explain you want your profile deleted from the system. We will remove you from the system within five business days.\n\nAm I able to restrict the types of students I advise?",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Frequently Asked Questions"
+  },
+  {
+    "text": "Am I able to restrict the types of students I advise?\n\nWe ask that you be open to all students on campus, as you never know how your experiences might related to them, even though they may not be an \"expected\" advisee (i.e.. an engineering student seeking advice from a lawyer or someone in the public sector).\n\nDo I have to advise every student who contacts me?",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Frequently Asked Questions"
+  },
+  {
+    "text": "Do I have to advise every student who contacts me?\n\nNo. You can set your availability to allow connection requests from the number of mentees that you are comfortable of. You can also deny any connection request if your schedule is full or you feel it is the wrong fit.\n\nAs a mentor, can I change my availability?",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Frequently Asked Questions"
+  },
+  {
+    "text": "As a mentor, can I change my availability?\n\nYes. You can update your availability at any time by clicking the dropdown menu next to your icon in the top right. Select \"My Preferences\" and navigate to the \"Availability\" section in the left sidebar.\n\nCan I use my @umd email after graduation?\n\nFor @umd email-related answers, please explore FAQs from the IT Service Desk.",
+    "source": "alumni-umd-edu-resources-terrapins-connect.md",
+    "doc_type": "page",
+    "section": "Frequently Asked Questions"
+  },
+  {
+    "text": "Coaches Corner. Your Alumni Association is fearlessly committed to your success. We are here to provide you with resources to enhance your personal and professional goals. Coaches Corner is  a program that aims to connect Terps with access to top-level alum coaches interested in helping you start, advance or pivot your career. Our coaches:",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Coaches Corner"
+  },
+  {
+    "text": "- Work at various and scalable price points\n- Offer exclusive discounts to Terps like you- _just mention you're a Terp in your first outreach message to unlock exclusive deals_ \n- Have expertise in various career levels, industries and fields\n\n**Find the right coach for you:**",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Coaches Corner"
+  },
+  {
+    "text": "Career Strategist, Business & Life Coach. **_Educate, Equip, and Empower_**",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Career Strategist, Business & Life Coach"
+  },
+  {
+    "text": "Dr. Joi Brown, a Career Strategist, Business & Life Coach, International Bestselling Author, Empowerment Speaker, and Entrepreneur known as the “Positive Energizer.” Joi is the Chief Executive Officer of 3EEE Consulting, where she continues to educate, equip, and empower people through coaching, conversations, and workshops",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Career Strategist, Business & Life Coach"
+  },
+  {
+    "text": ". Joi’s impact and presence are felt by others through her expertise in career and entrepreneur development, conflict resolution, goal setting, health and wellness, leadership and team development, and personal and professional branding. Joi has been a part of two anthologies and is an Amazon International Bestselling Author for Step Into Leadership Greatness: Leadership Is Not A Title",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Career Strategist, Business & Life Coach"
+  },
+  {
+    "text": ". Joi has been featured in various magazines and articles such as Tap-In, VIP Global, Women of Dignity and been recognized as a Top 20 Business Coach, Top 25 Most Inspiring Woman, Top 25 of Global Influencers, and Top 50 of Unstoppable Innovators. Joi is walking in her purpose helping to educate, equip, and empower women to unlock their passion, purpose and potential. Connect on LinkedIn",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Career Strategist, Business & Life Coach"
+  },
+  {
+    "text": "**Coaching Method:** In person and virtual\n\n**Area of Expertise:** Early career, First-time job seekers, Recent graduates, Mid-Career, Career changers, Late-stage career, Executives/C-suite, Entrepreneurs, Women \n\nSchedule a Call Fill out this Google form to schedule a coaching call with Joi Brown Visit Joi's Website Go to Joi Brown's website www.3eeeconsulting.com\n\n---",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Career Strategist, Business & Life Coach"
+  },
+  {
+    "text": "Career Clarity Coaching. **_Soul Search before you Job Search_**\n\nAlison Cardy is a career truth teller who believes in living a life that actually feels like your own.\n\nShe runs a career coaching team that has helped over 300 capable professionals find a great career fit through her proven CLARITY process. \n\nShe also works 1-1 with Entrepreneurs and Executives who secretly want to burn down everything they’ve built and aren’t sure why. Learn more on her website.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Career Clarity Coaching"
+  },
+  {
+    "text": "Alison is the author of the bestseller, _Career Grease: How to Get Unstuck and Pivot Your Career_. Her work has been featured on Monster, Forbes, The Muse, Undercover Recruiter, and The Washington Post.\n\n**Coaching Method**: Virtual\n\n**Area of Expertise**: Career changers, Executives/C-suite, Entrepreneurs \n\nVisit Alison's Website Go to Alison Cardy's website to learn more about her services Email Alison Email Alison\n\n---",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Career Clarity Coaching"
+  },
+  {
+    "text": "Business and Executive Coach. **_Your partner for RADical success_**",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Business and Executive Coach"
+  },
+  {
+    "text": "Angie Dobransky is an award-winning coach, trainer, author, and speaker who shows people how to reach RADical success using The Success System in their lives and businesses. She empowers business owners and executives to build outstanding companies, achieve their vision, and impact the world. She coaches people and teams worldwide via Zoom’s magic, runs transformational retreats in Baja, Mexico, spends much time at the beach, and travels the world experiencing its wonders",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Business and Executive Coach"
+  },
+  {
+    "text": ". Her book, Life Lessons in Success: Wisdom to Win the Game of Life, is a collection of true stories of achievers who turn obstacles into dreams. She and her husband currently split their time between Washington, DC, Daytona Beach, and Todos Santos, Mexico.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Business and Executive Coach"
+  },
+  {
+    "text": "**Coaching Method:** In person and virtual\n\n**Area of Expertise:** Mid-Career, Executives/C-suite, Entrepreneurs, Women, Business Owners and Executive Teams \n\nVisit Angie's Website Learn more by visiting Angie's website Email Angie Send an email to Angie Dobransky\n\n---",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Business and Executive Coach"
+  },
+  {
+    "text": "Career, Leadership, & Life Coach. **_“There is a hero in all of us.”_**\n\nChad Ellsworth ‘04 is an author; professional speaker; career, leadership and life coach. In 2018, he published “Building up without tearing down: How to cultivate heroic leadership in you and your organization.” Chad is an Associate Director for the Career Center at Carleton College after serving the University of Minnesota community for more than 15 years in various roles.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Career, Leadership, & Life Coach"
+  },
+  {
+    "text": "Chad is a Board Certified Coach (2015), Gallup-Certified Strengths Coach (2017), EQometer Certified Coach (2020) and the 4 Stages of Psychological Safety certified trainer (2020), as well as a certified practitioner of the Myers-Briggs Type Indicator and Strong Interest Inventory. Originally from Lincoln, Nebraska, Chad received his bachelor’s degree from the University of Nebraska in 2001, and his master’s degree from the University of Maryland in 2004. He lives in the Minneapolis-St",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Career, Leadership, & Life Coach"
+  },
+  {
+    "text": ". He lives in the Minneapolis-St. Paul area with his wife, Kristin, and two sons, Joey and Paul.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Career, Leadership, & Life Coach"
+  },
+  {
+    "text": "**Coaching Method**:  Virtual\n\n**Area of Expertise**: Early career, Recent graduates, Mid-Career, Career changers \n\nVisit Chad's Website Learn more on Chad Ellsworth's website Email Chad Send an email to Chad@CapedCoaching.com\n\n---",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Career, Leadership, & Life Coach"
+  },
+  {
+    "text": "Business and Career Coach. **_The Cure for The Common Career_**",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Business and Career Coach"
+  },
+  {
+    "text": "With more than 30 years of experience as an executive, entrepreneur and coach, Allan Fried has spent his career focused on bringing out the best in others. An inspired leader, lifelong learner and lover of big ideas, he has a talent for recognizing clients’ unique strengths and an uncanny ability to help them develop those strengths into something even greater than themselves.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Business and Career Coach"
+  },
+  {
+    "text": "Allan’s is a quintessential New York success story, with a career trajectory that has taken him from the mailroom of renowned talent agency ICM to the offices of VP at International BMG and COO at Knitmedia. Along the way, he’s been a startup founder, a business owner, a consultant and a coach.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Business and Career Coach"
+  },
+  {
+    "text": "Allan is an award-winning group chair with Vistage Worldwide, the world's leading CEO organization. He holds a PCC certification from the International Coach Federation and is an alumnus of New York University's coach training program. As a respected leader in his field, Allan also has the privilege of serving as a mentor to other coaches.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Business and Career Coach"
+  },
+  {
+    "text": "**Coaching Method:** In person and virtual\n\n**Area of Expertise:** Mid-Career, Career changers, Executives/C-suite, Entrepreneurs \n\nVisit Allan's Website Learn more on Allan Fried's website Email Allan Send an email to Allan Friend",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Business and Career Coach"
+  },
+  {
+    "text": "Operations Executive & Team Coach. Laura Malinowski, Class of ’94, is an executive coach and team coach dedicated to helping leaders unlock their full potential and build high-performing, resilient teams. With decades of hands-on operations experience and a B.S. in Business Administration from UMCP, Laura brings both practical insight and a creative approach to leadership challenges",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Operations Executive & Team Coach"
+  },
+  {
+    "text": ". She works with clients across sectors—including tech, healthcare, finance, and NGOs—supporting them in breaking down silos, fostering collaboration, and driving transformative change. Laura holds several certifications, including Generative Team Coaching, Change Management, Mediation & Conflict Resolution, and is a Certified Practitioner of the Narrative Enneagram and a Qualified Administrator of the Intercultural Development Inventory",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Operations Executive & Team Coach"
+  },
+  {
+    "text": ". Outside of coaching, she enjoys running, archery, yoga, and exploring French language and culture. Laura also hosts the podcast “Your Future Realized,” where she shares strategies for personal and professional growth. She’s always eager to connect with fellow Terps who are passionate about making a meaningful impact—so don’t hesitate to reach",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Operations Executive & Team Coach"
+  },
+  {
+    "text": "**Coaching Method:** In person and virtual\n\n**Area of Expertise:** Early career, Mid-Career, Career changers, Late-stage career, Executives/C-suite, Entrepreneurs, Women, Life Coaching \n\nLaura Malinowski's Email Laura Malinowski's Website\n\n---",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Operations Executive & Team Coach"
+  },
+  {
+    "text": "Executive Coach. **_Fine is a Trap - You Deserve Better_**\n\n**Fine is a Trap** was founded on the principle that no one feels “fine”. As humans, we have much stronger feelings than that, and if we’re saying we’re “fine”, we’re usually avoiding sharing what’s actually difficult. When we get willing to address the “fine”, we have the opportunity to create amazing!",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Executive Coach"
+  },
+  {
+    "text": "Lauren is an **Executive Coach**, partnering one-on-one with corporate leaders (individually or company-sponsored) ready to overcome burnout, create healthy boundaries, reduce busyness, develop executive skills, elevate or change their careers, and find joy in their work.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Executive Coach"
+  },
+  {
+    "text": "In addition, Lauren is a **Fractional Chief HR Officer** for companies with up to 100 employees supporting times of change. She offers strategic advisory services, employee training, organizational development planning, and systems selection and implementation.\n\nShe’s also a certified **Laughter Yoga Instructor**, offering virtual employee wellness sessions!",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Executive Coach"
+  },
+  {
+    "text": "A former corporate Human Resources and Operations executive, Lauren has 25+ years' HR experience in for- and non-profit companies and has been coaching for more than 15 years. She’s managed, consulted with, and coached c-suite and emerging leaders in a variety of departments",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Executive Coach"
+  },
+  {
+    "text": ". Lauren graduated from UMD in 1998 with a BA in Psychology, is a Professional Certified Coach (ICF PCC), a Certified Ontological Executive Coach, and holds Senior Professional in Human Resources (SPHR) and Senior SHRM Professional (SHRM SCP) certifications.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Executive Coach"
+  },
+  {
+    "text": "Using strategic thinking, creative solutions, and empathetic humor, she creates trusting and productive relationships.\n\n**Coaching Method**: Virtual \n \n**Area of Expertise**: Executives/C-Suite, Career Changers, Late-Stage Career, Women, Emerging Leaders, \nSmall/Medium Businesses \n\nSchedule a Strategy Call Sign up for a call with Lauren using this form https://laurenlefkowitzcoach.as.me/letschat Visit Lauren's Website Learn more on Lauren's website https://laurenlefkowitzcoach.com/\n\n---",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Executive Coach"
+  },
+  {
+    "text": "Executive and Leadership Coach. **_Empowering leaders to seek inward and lead outward_**",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Executive and Leadership Coach"
+  },
+  {
+    "text": "Passionate about empowering women, Jessika Portney is an executive & leadership coach and founder of Journey On. Jessika has worked in the field of leadership development for over a decade, supporting leaders of all backgrounds and tenures. In addition to her work with private clients, Jessika coaches and facilitates leadership development training programs for non-profit organizations and government agencies",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Executive and Leadership Coach"
+  },
+  {
+    "text": ". Her approach to leadership has been informed by the cross-cultural experiences she’s sought out: pursuing a graduate degree and teaching English in Rome, facilitating Fulbright fellowships for mid-career leaders from 90 different countries, and implementing USAID projects for Egyptian women pursuing a STEM education.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Executive and Leadership Coach"
+  },
+  {
+    "text": "Clients value Jessika’s deep curiosity about the human experience and ability to create a warm environment for them to be vulnerable and dig deep. She became a coach to honor these gifts and create space for those who want to do similar transformational work. Jessika finds true joy in partnering with clients to embrace their superpowers and manifest their potential.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Executive and Leadership Coach"
+  },
+  {
+    "text": "**Coaching Method:** Virtual\n\n**Area of Expertise:** Mid-Career, Career changers, Executives/C-suite, Entrepreneurs, Women",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Executive and Leadership Coach"
+  },
+  {
+    "text": "Executive Coach and Team Coach. Visit Jessika's Website Learn more on Jessika Portney's website https://www.journeyonleaders.com/\n\n---",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Executive Coach and Team Coach"
+  },
+  {
+    "text": "Early Career Coach for College Students & Recent Grads. A Certified Career Services Provider with more than twelve years of experience advising students at the University of Maryland, Jessica Roffe specializes in guiding college students and recent graduates through the often-confusing early stages of their careers. As the Founder of Career Beginnings LLC, she equips her clients with the skills and strategies for career readiness and long-term success.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Early Career Coach for College Students & Recent Grads"
+  },
+  {
+    "text": "Her personalized coaching is driven by a passion for helping students and young professionals navigate career challenges such as finding internships and jobs, building strong resumes and LinkedIn profiles, networking effectively, and excelling in interviews. She also specializes in helping clients identify their interests, strengths, and values, empowering them to explore careers that align with their unique traits.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Early Career Coach for College Students & Recent Grads"
+  },
+  {
+    "text": "Jessica holds her MA in Higher and Postsecondary Education from Columbia University’s Teachers College and BA in Psychology from the University of Maryland, College Park.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Early Career Coach for College Students & Recent Grads"
+  },
+  {
+    "text": "**Coaching Method**: Virtual\n\n**Area of Expertise**: Early Career \n\nCoaches Corner - Jessica Roffe Website Career Coaches - Jessica Roffe's Email\n\n---",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Early Career Coach for College Students & Recent Grads"
+  },
+  {
+    "text": "Michael Seelman '94. _**Your Partner for Leadership Growth**_\n\nMichael is the CEO of the Leadership Coach Group, a global leadership development firm providing executive coaching, team coaching, and training for leaders. He works with senior leaders to bring out their best performance, serve their people, and live a more fulfilled life. He has coached over 150 leaders on five continents – leveling up performance and achieving their goals.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Michael Seelman '94"
+  },
+  {
+    "text": "Over two decades, Michael served in leadership roles at the White House, FBI, U.S. Department of Justice, and the U.S. Department of Homeland Security. He was often called upon to start up high profile offices and initiatives. At the White House he led a national gun violence reduction effort in collaboration with mayors and police chiefs.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Michael Seelman '94"
+  },
+  {
+    "text": "At the FBI, he was the first global chief of employee communications, coaching FBI Director Bob Mueller and his leadership team on engaging with the 40,000+ workforce and organizational changes post-9/11 terrorist attacks. As Deputy Chief Knowledge Officer, he supervised the FBI’s knowledge management, innovation, data sharing, programs as well as outreach programs to Fortune 500 companies’ security executives. He also led teams of FBI, ATF, DEA, and U.S",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Michael Seelman '94"
+  },
+  {
+    "text": ". He also led teams of FBI, ATF, DEA, and U.S. Marshall officers reducing violence in the country’s most violent cities in partnership with local officials.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Michael Seelman '94"
+  },
+  {
+    "text": "**Coaching Method**: In person and Virtual\n\n**Area of Expertise**: Mid-Career, Career changers, Late-stage career, Executives/C-suite, Entrepreneurs, Women \n\nVisit Michael's Website Learn more on Michael Seelman's website Email Michael Send Michael Seelman an email",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Michael Seelman '94"
+  },
+  {
+    "text": "Financial Coaching. Ben graduated from the University of Maryland in 2019 with a degree in Finance and a minor in Technology Entrepreneurship. Today, Ben is a personal finance coach and helps individuals and couples take control of their money, pay off debt, and build a strong financial future. His approach is personal, practical, and rooted in the belief that financial freedom starts with clarity and confidence",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Financial Coaching"
+  },
+  {
+    "text": ". Whether it’s creating a realistic budget, building an emergency fund, or making a plan to crush debt, Ben equips clients with the tools and strategies they need to take action and see results.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Financial Coaching"
+  },
+  {
+    "text": "Through one-on-one coaching, Ben is on a mission to make financial literacy simple, accessible, and empowering. Outside of coaching, Ben is a huge sports fan and enjoys hiking and traveling. \n\n**Coaching Method**: Virtual\n\n**Area of Expertise**: Financial Coaching/Advising, Budgeting, Debt Management, Money Communication \n\nBen Taragin's Instagram",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Financial Coaching"
+  },
+  {
+    "text": "Executive Coach | Team Alignment and Mindset Expert. Amy Yip is the CEO of **Amy Yip LLC**, the team alignment experts organizations trust to reduce internal resistance and get everyone moving in the same direction — with less friction and frustration. Through a proven six-part framework, her firm equips teams to build trust, align on vision, communicate with clarity, navigate conflict, embrace accountability, and achieve real results together.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Executive Coach | Team Alignment and Mindset Expert"
+  },
+  {
+    "text": "An accomplished Mental Fitness expert, executive coach, keynote speaker, and award-winning author, Amy is passionate about helping individuals and teams thrive through change. She is also a 2X TEDx speaker with over 16 years of experience building and leading global teams at industry leaders like Google, Clorox, and Booz Allen.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Executive Coach | Team Alignment and Mindset Expert"
+  },
+  {
+    "text": "Amy is an International Coach Federation Professional Certified Coach, a Certified Hudson Institute Coach, a Certified Strozzi Institute Somatic Coach, and a pioneer Mental Fitness Coach certified through Positive Intelligence.\n\nShe received her MBA from the UCLA Anderson School of Management, and her BS in computer science and BA in communications from the University of Maryland.",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Executive Coach | Team Alignment and Mindset Expert"
+  },
+  {
+    "text": "Amy resides in Maryland with Greg, her best friend and husband, and her sons Logan and Julian, the cutest kids ever.\n\n**Coaching Method**: In person and Virtual\n\n**Area of Expertise**: Mid-Career, Career changers, Late-stage career, Executives/C-suite, Entrepreneurs, Women \n\nSchedule a Complimentary Session Schedule a complimentary coaching session with Amy on https://calendly.com Visit Amy's Website Learn more on Amy Yip's website https://amyyipcoaching.com/\n\n---\n\n---",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Executive Coach | Team Alignment and Mindset Expert"
+  },
+  {
+    "text": "Find More Coaches. Check out all of our coaches on the new Terp Referral Exchange Business Directory.\n\nBrowse Directory Search the directory of businesses owned by UMD alumni",
+    "source": "coaches.md",
+    "doc_type": "page",
+    "section": "Find More Coaches"
+  },
+  {
+    "text": "Strengthen Terp Ties at Your Workplace. Your Alumni Association supports thriving Terp communities at workplaces across the nation. Read on for three ways to get involved. \n \nReady to get started at your company?\n\nConnect with Us Jump to contact us section of page\n\n---",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Strengthen Terp Ties at Your Workplace"
+  },
+  {
+    "text": "Engage with fellow Terps in your office.. Attend a Networking Event\n\nThe University of Maryland Alumni Association offers a variety of corporate events, from breakfasts to receptions to student-alumni networking opportunities. \n\n- View photos from past events.\n- Check out upcoming events.\n- Become a Corporate Champion and host events in your workplace!\n\nHost an Event for Terps at Your Office",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Engage with fellow Terps in your office."
+  },
+  {
+    "text": "Host an Event for Terps at Your Office\n\nBe the voice of Maryland at your company. Corporate Champions are Terps who create strong connections between the University of Maryland, their company, and fellow alumni. As a Corporate Champion, you proudly promote the spirit of Maryland throughout your workplace by creating meaningful experiences for and with fellow alums. Email us to hear more today.",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Engage with fellow Terps in your office."
+  },
+  {
+    "text": "Boost your company's recruitment success by supporting efforts to hire talented Terps.. Your Alumni Association works closely with campus partners to provide the highest level of service to employers and companies who hire Terps, with the overall goal of improving placement outcomes for current students. Here are some ways to boost your company's recruitment success with the next generation of Terp alums in the workforce:\n\nHost an Intern for a Day",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Boost your company's recruitment success by supporting efforts to hire talented Terps."
+  },
+  {
+    "text": "Host an Intern for a Day\n\nThe University Career Center's popular Intern for a Day program connects undergraduate UMD students with professionals, including alums, parents and other partners, for in-person job shadowing or virtual informational interviews, to help students explore potential career fields. Check out a recent Intern for a Day experience.\n\nRecruit at a Career Fair\n\nRepresent your company at a University of Maryland Career Fair and meet the next generation of talented Terps.",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Boost your company's recruitment success by supporting efforts to hire talented Terps."
+  },
+  {
+    "text": "Utilize the Terrapins Connect mentorship platform\n\nTerrapins Connect is the University’s virtual platform designed to link Terps worldwide for mentoring, networking and professional opportunities.",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Boost your company's recruitment success by supporting efforts to hire talented Terps."
+  },
+  {
+    "text": "- **Participate in the Corporate Mentorship Program** \n Share your expertise by mentoring Terps through our corporate mentorship program. _Launching in Spring 2025._\n- **Post an internship or job opportunity** \n Support the Terp community by posting available internships or job opportunities at your company.",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Boost your company's recruitment success by supporting efforts to hire talented Terps."
+  },
+  {
+    "text": "Support the University of Maryland by giving back.. Explore Matching Gift Programs\n\nTerps make an impact when they give back. \nAnd what easier way to make a difference than through workplace giving?",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Support the University of Maryland by giving back."
+  },
+  {
+    "text": "There’s a reason Maryland alums stay connected to their alma mater for life. The University of Maryland isn’t just a stop along the way—it’s a community, a launching pad, and a lifelong source of pride. Giving back to the place that helped shape your journey is easier than ever through workplace giving.",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Support the University of Maryland by giving back."
+  },
+  {
+    "text": "Chances are, your company has a giving platform. Many employers will even match your donation—doubling your impact. Some also recognize your volunteer time by contributing to the nonprofit organizations you serve. Find out if your company offers a matching gift or volunteer grant program, and help support the next generation of Terps.\n\nGet a Company-Specific Alumni Association Membership\n\nRepresent your company by joining the Alumni Association and connecting with other Terps.",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Support the University of Maryland by giving back."
+  },
+  {
+    "text": "- Northrop Grumman\n- MITRE\n- Fannie Mae\n- Accenture\n- Marriott\n- Booz Allen\n- Google\n\nHost a Service Event for Do Good Month in April\n\nParticipate in company-hosted Days of Service with fellow Terps. Organize events like volunteering to review resumes for current students or hosting on-campus mock interviews to give back to the community. Learn more about Do Good Month.\n\nFind Mentorship and Volunteer Opportunities",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Support the University of Maryland by giving back."
+  },
+  {
+    "text": "Find Mentorship and Volunteer Opportunities\n\nFind out more about mentorship and volunteer opportunities through the Alumni Association.\n\n---",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Support the University of Maryland by giving back."
+  },
+  {
+    "text": "Corporate Networks. **The Spirit of Maryland at Work** \nWe believe there’s something special about the University of Maryland that stays with you long after graduation. When Terps cross paths in the professional world, there’s an instant sense of connection—a shared experience that sparks collaboration, camaraderie and trust.",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Corporate Networks"
+  },
+  {
+    "text": "In today’s fast-paced work environment, it’s easy to focus on the to-do list and overlook the value of community, but strong connections are at the heart of a thriving workplace. Our alumni corporate networks build bonds through mentorship, fellowship and meaningful professional relationships. \n \nExplore the strength of the Maryland alumni network and discover what’s possible when Terps unite.\n\n[](https://alumni.umd.edu/news/terps-at-work-melisa-jangbahadur-24)",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Corporate Networks"
+  },
+  {
+    "text": "Terps at Work: Melisa Jangbahadur '24. Melisa Jangbahadur's '24 time at the University of Maryland equipped her with a strong foundation in electrical engineering, leading to an internship and subsequent full-time role at Northrop Grumman. Read more to check out her story!\n\nLearn More",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Terps at Work: Melisa Jangbahadur '24"
+  },
+  {
+    "text": "Gina Flach ‘14, Accenture. “We are very lucky to have such a strong community of Terps at AFS. Working with our group of UMD Alumni and watching it grow over the years has made AFS feel more like home to me, and I’m constantly impressed by the new Terps who join us every year.”",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Gina Flach ‘14, Accenture"
+  },
+  {
+    "text": "Surabi Kondapaka ‘18, Northrop Grumman. \"It has been a privilege and joy to serve as the Vice President of the NGTerps Alumni Chapter. Carrying the enthusiasm, warmth, and talent of our UMD community into the workplace has been fulfilling (and also a ton of fun!) This alumni chapter has helped build community, foster mentorship, and connect Terps at both a professional and personal level, and I can't wait to see how it continues to grow!\"",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Surabi Kondapaka ‘18, Northrop Grumman"
+  },
+  {
+    "text": "Active Corporate Partners. We’re proud to partner with these organizations to host events and foster community, with active Corporate Champions leading the way in connecting Terps across industries.\n\n Who should I connect with at my company to get involved?\n\n**Our Champions**",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Active Corporate Partners"
+  },
+  {
+    "text": "- **Accenture and AFS** - Brett Jacobson ’13, Ebony Jones ‘08, or Gina Flach ‘14 (600+ Terps)\n- **Amazon** - Alexis Robinson ‘10 and Zhe Liu ‘05 (750+ Terps)\n- **Apple** - Andrew Lee\n- **AWS** - Pragya Purohit ‘06 (600+ Terps)\n- **Booz Allen** - Albertina Brett ‘98 (800+ Terps)\n- **Capital One** - Gabriela Winter ‘22 and Luke Amato ‘22 - Capital One's Slack channel #C1terps (750+ Terps)\n- **Fannie Mae** - Kirk Bell ‘88 (Nearly 400 Terps)",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Active Corporate Partners"
+  },
+  {
+    "text": "- **Fannie Mae** - Kirk Bell ‘88 (Nearly 400 Terps)\n- **Google** - Jeanne Skinner ‘93 (DC), Leila Al-Muhtasib ‘06 (Mountain View) (700+ Terps)\n- **MITRE** - Wilson Wang ‘03 (Nearly 200 Terps)\n- **Morgan Stanley** - Chelsea Bernstein ‘15 (Nearly 450 Terps)\n- **Northrop Grumman** - Bill Devine and Trisha Patel",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Active Corporate Partners"
+  },
+  {
+    "text": "Cara Folk. Director of Alumni Corporate and Industry Engagement\n\n- cfolk@umd.edu\n- 301-405-9433\n\nIf you would like to get your company more involved with the Alumni Association or connect with a UMD office on campus, reach out to Cara Folk, Director of Corporate and Industry Alumni Engagement.",
+    "source": "coporate.md",
+    "doc_type": "page",
+    "section": "Cara Folk"
+  },
+  {
+    "text": "HEADER. Source: University of Maryland Alumni Association - LinkedIn Company Page\nURL: https://www.linkedin.com/company/maryland-alumni\nType: Official organization page (LinkedIn updates feed)",
+    "source": "umd_alumni_linkedin.txt",
+    "doc_type": "page",
+    "section": "HEADER"
+  },
+  {
+    "text": "COMPANY INFO. University of Maryland Alumni Association\nHigher Education | College Park, MD | 7,678 followers\nTagline: Your Lifelong Terrapin Connection #StayFearlessUMD\n\nWebsite: https://alumni.umd.edu/\nIndustry: Higher Education\nCompany size: 11-50 employees (45 listed on LinkedIn)\nHeadquarters: 7801 Alumni Drive, College Park, MD 20742, US\nType: Nonprofit\nFounded: 1989",
+    "source": "umd_alumni_linkedin.txt",
+    "doc_type": "page",
+    "section": "COMPANY INFO"
+  },
+  {
+    "text": "ABOUT US. You remember the feeling. Singing the Maryland fight song in the stands. Rushing to class across McKeldin Mall. Rubbing Testudo's nose for luck. You're a Terp - passionate, curious, inspired, and always ready to take the next bold step. Your alumni association is here to help you stay fearless, connecting you with fellow alumni, preparing you for new opportunities and engaging you with unforgettable events.",
+    "source": "umd_alumni_linkedin.txt",
+    "doc_type": "page",
+    "section": "ABOUT US"
+  },
+  {
+    "text": "STAY FEARLESS, TERPS! GET INVOLVED in your Alumni Association in five easy steps:\n1. Follow the LinkedIn Page and join the Alumni Association's LinkedIn Group (https://www.linkedin.com/groups/105383/)\n2. Follow the Facebook and Instagram pages (https://www.facebook.com/TerpAlumni & https://www.instagram.com/maryland_alumni/)\n3. Connect with the blog to highlight your accomplishments by emailing alumni@umd.edu",
+    "source": "umd_alumni_linkedin.txt",
+    "doc_type": "page",
+    "section": "ABOUT US"
+  },
+  {
+    "text": "RECENT POSTS. [1w] Happy Birthday to the one and only Testudo! From good luck rubs before exams to countless campus memories, you've been part of every Terp's story. Drop a turtle in the comments to wish Testudo a happy birthday!\nReactions: 282 | 19 comments",
+    "source": "umd_alumni_linkedin.txt",
+    "doc_type": "page",
+    "section": "RECENT POSTS"
+  },
+  {
+    "text": "[1w] Your next career breakthrough could start with a single conversation. Connect with accomplished alumni, gain fresh industry insights, and expand your professional network through our upcoming webinar series. Sign up: https://lnkd.in/eavCKQVG\nReactions: 4\n\n[1w] BenefitHub helps University of Maryland alums find smarter home and auto insurance coverage at exclusive discounted rates. Get your quote today: https://bit.ly/3QYbpUn\nReactions: 5",
+    "source": "umd_alumni_linkedin.txt",
+    "doc_type": "page",
+    "section": "RECENT POSTS"
+  },
+  {
+    "text": "[2w] Be supported by Terps! Join a network of Maryland entrepreneurs and showcase what you've built. Add your business today: https://lnkd.in/eEXdSdc8\nReactions: 14\n\n[2w] We asked, and Terps delivered! Our alumni community shared the best career advice they've ever received for the newest generation of Terp grads, offering wisdom on growth, confidence, resilience, and taking chances. Advice for the Class of 2026: https://lnkd.in/e5k8B4md\nReactions: 14",
+    "source": "umd_alumni_linkedin.txt",
+    "doc_type": "page",
+    "section": "RECENT POSTS"
+  },
+  {
+    "text": "[2w] Commencement week has us feeling nostalgic. Come back to campus for Terp Academy and continue learning with behind-the-scenes experiences, Testudo photos, Dairy treats, and more. Sign up: https://bit.ly/4mmFJ6s\nReactions: 13",
+    "source": "umd_alumni_linkedin.txt",
+    "doc_type": "page",
+    "section": "RECENT POSTS"
+  },
+  {
+    "text": "[3w] Recent Graduate Wine Tasting. Maxwell Park, June 9, 6-8 PM EDT. Reconnect, network, and unwind with fellow recent grad Terps during a guided wine and cheese tasting led by Maxwell Park's sommeliers. Sample 6 curated pairings while learning the basics of wine and cheese pairing. Intended for recent Terp graduates from the Classes of 2016-2026, but all are welcome. IDs checked upon entry. Cost: Alumni Association members free; non-members $15. Registration limited: https://bit.ly/4wzf8rz",
+    "source": "umd_alumni_linkedin.txt",
+    "doc_type": "page",
+    "section": "RECENT POSTS"
+  },
+  {
+    "text": "[3w] This Father's Day, give Dad a facial experience at The Spa at The Hotel at the University of Maryland. A gift card isn't just a present, it's a chance for him to relax and recharge. Link: https://lnkd.in/eNs_ZEJP\nReactions: 1\n\n[3w] Your advice could inspire the next generation of Terps. Want to be featured in a Maryland Today article? Comment your BEST advice for new grads below with your first and last name plus your graduation year!\nReactions: 12 | 11 comments",
+    "source": "umd_alumni_linkedin.txt",
+    "doc_type": "page",
+    "section": "RECENT POSTS"
+  },
+  {
+    "text": "[3w] Terps supporting Terps extends far beyond campus! We spoke with Ben Epstein '02, co-founder of The Board and Brew in College Park, about his entrepreneurial journey and the value of being part of the Terp Business Directory. The directory helps alum-owned businesses gain visibility and encourages the Terp community to support fellow enTERPreneurs. Explore the directory: https://bit.ly/48WRZUJ\nReactions: 20 | 1 comment",
+    "source": "umd_alumni_linkedin.txt",
+    "doc_type": "page",
+    "section": "RECENT POSTS"
+  }
+]

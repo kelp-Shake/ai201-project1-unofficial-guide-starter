@@ -1,0 +1,44 @@
+Splitter: langchain RecursiveCharacterTextSplitter
+Documents processed: 11
+Total chunks: 339
+
+Chunks per document:
+   52  Alumni,_your_terpmail_may_be_deleted_if_you_don't_take_action (1).md
+   66  Alumni_who_lurk_this_page-_what_do_you_work_as_now_.md
+   49  How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_ra
+   29  I_hate_UMD._Stop_sending_me_alumni_mail. (1).md
+    6  UMD_Alumni_Association__What's_In_It_For_Me__An_event_explaining_the_b
+    3  What_libraries_and_spaces_are_available_for_me,_an_alumni_who_graduate
+   13  alumni-umd-edu-membership-benefits.md
+   34  alumni-umd-edu-resources-terrapins-connect.md
+   55  coaches.md
+   21  coporate.md
+   11  umd_alumni_linkedin.txt
+
+Chunk length chars: min 40, mean 241, max 495
+
+======================================================================
+5 SAMPLE CHUNKS (inspect: is each self-contained?)
+======================================================================
+
+[reddit | comment_41 | How_weird_would_it_be_as_an_alumni_to_ju]
+(155 chars) My fault if it’s coming off as weird, not my intention. Just figured I try and see what’s up on campus that I can pass time with outside of work & friends.
+
+[reddit | comment_20 | Alumni_who_lurk_this_page-_what_do_you_w]
+(87 chars) Underground gladiator.
+
+What we do in life echoes in eternity. Maximus Decimus Merdius.
+
+[reddit | title+op | What_libraries_and_spaces_are_available_]
+(251 chars) What libraries and spaces are available for me, an alumni who graduated 6 years ago? I still have an old library card. I am especially interested in quiet study spaces in libraries I can still access. Visit
+
+Edit. I mean an ID card, not a library card
+
+[page | RECENT POSTS | umd_alumni_linkedin.txt]
+(446 chars) [1w] Your next career breakthrough could start with a single conversation. Connect with accomplished alumni, gain fresh industry insights, and expand your professional network through our upcoming webinar series. Sign up: https://lnkd.in/eavCKQVG
+Reactions: 4
+
+[1w] BenefitHub helps University of Maryland alums find smarter home and auto insurance coverage at exclusive discounted rates. Get your qu
+
+[reddit | comment_9_2 | Alumni,_your_terpmail_may_be_deleted_if_]
+(177 chars) Just wanna get the overall backstory out there. It's basically a case of, email for life meets service offering unlimited storage and it all kind of merging into a single thing.
