@@ -1,0 +1,63 @@
+EVALUATION RESULTS — The Unofficial Guide (UMD Alumni RAG)
+Model: llama-3.3-70b-versatile | Embeddings: all-MiniLM-L6-v2 | top-k=5 | cosine distance
+Loading embedding model: all-MiniLM-L6-v2 ...
+
+==============================================================================
+Q1: What resources can alumni use on campus
+==============================================================================
+ANSWER: Alumni can use libraries and quiet study spaces on campus, and they also have access to mentorship and volunteer opportunities through the Alumni Association.
+SOURCES: How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md, coporate.md, UMD_Alumni_Association__What's_In_It_For_Me__An_event_explaining_the_benefits_of_being_an_alum_May_16th (1).md, What_libraries_and_spaces_are_available_for_me,_an_alumni_who_graduated_6_years_ago__I_still_have_an_old_library_card._I_am_especially_interested_in_quiet_study_spaces_in_libraries_I_can_still_access. (1).md
+Top retrieved chunks (distance | section | source):
+  0.430 | comment_32 | How_weird_would_it_be_as_an_alumni_to_just_ha
+  0.469 | Support the University of Maryland by giving back. | coporate.md
+  0.475 | comment_31 | How_weird_would_it_be_as_an_alumni_to_just_ha
+  0.480 | title+op | UMD_Alumni_Association__What's_In_It_For_Me__
+  0.486 | title+op | What_libraries_and_spaces_are_available_for_m
+
+==============================================================================
+Q2: Is there alumni's I connect with for coaching for my career goals
+==============================================================================
+ANSWER: Yes, you can connect with alumni coaches through the Coaches Corner program or the Terp Referral Exchange Business Directory.
+SOURCES: alumni-umd-edu-resources-terrapins-connect.md, coaches.md, How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md, coporate.md
+Top retrieved chunks (distance | section | source):
+  0.349 | Frequently Asked Questions | alumni-umd-edu-resources-terrapins-connect.md
+  0.400 | Find More Coaches | coaches.md
+  0.405 | Coaches Corner | coaches.md
+  0.434 | comment_31 | How_weird_would_it_be_as_an_alumni_to_just_ha
+  0.462 | Support the University of Maryland by giving back. | coporate.md
+
+==============================================================================
+Q3: Is there a networking website for alumni's
+==============================================================================
+ANSWER: Yes, there is a networking website for alumni, it's called Terrapins Connect.
+SOURCES: umd_alumni_linkedin.txt, How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md, coporate.md, alumni-umd-edu-resources-terrapins-connect.md
+Top retrieved chunks (distance | section | source):
+  0.397 | COMPANY INFO | umd_alumni_linkedin.txt
+  0.412 | comment_13 | How_weird_would_it_be_as_an_alumni_to_just_ha
+  0.413 | comment_32 | How_weird_would_it_be_as_an_alumni_to_just_ha
+  0.428 | Corporate Networks | coporate.md
+  0.436 | Frequently Asked Questions | alumni-umd-edu-resources-terrapins-connect.md
+
+==============================================================================
+Q4: what type of membership length periods are available
+==============================================================================
+ANSWER: I don't have enough information on that.
+SOURCES: (none — declined)
+Top retrieved chunks (distance | section | source):
+  0.616 | comment_5 | How_weird_would_it_be_as_an_alumni_to_just_ha
+  0.617 | Membership | alumni-umd-edu-membership-benefits.md
+  0.659 | How to Access Your Member Benefits | alumni-umd-edu-membership-benefits.md
+  0.694 | comment_2_1 | Alumni,_your_terpmail_may_be_deleted_if_you_d
+  0.704 | How to Access Your Member Benefits | alumni-umd-edu-membership-benefits.md
+
+==============================================================================
+Q5: Can I use the library late night after graduation
+==============================================================================
+ANSWER: No, you cannot use the library late night, such as McKeldin, after graduation.
+SOURCES: What_libraries_and_spaces_are_available_for_me,_an_alumni_who_graduated_6_years_ago__I_still_have_an_old_library_card._I_am_especially_interested_in_quiet_study_spaces_in_libraries_I_can_still_access. (1).md, How_weird_would_it_be_as_an_alumni_to_just_hang_around_campus_to_do_random_stuff_ (1).md, I_hate_UMD._Stop_sending_me_alumni_mail. (1).md
+Top retrieved chunks (distance | section | source):
+  0.502 | title+op | What_libraries_and_spaces_are_available_for_m
+  0.515 | comment_22 | How_weird_would_it_be_as_an_alumni_to_just_ha
+  0.553 | comment_1 | What_libraries_and_spaces_are_available_for_m
+  0.580 | comment_4 | How_weird_would_it_be_as_an_alumni_to_just_ha
+  0.610 | comment_6 | I_hate_UMD._Stop_sending_me_alumni_mail. (1).
